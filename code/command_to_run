@@ -1,4 +1,5 @@
-The code siamese_pairs.py has been changed so this code can be pasted in experiments directory of assignment 2
-And the siamese_pair_test_eclipse.json should be pasted in the directory path HOME_DIR\duplicate-bug-report\json_parameters
+Assignment 2 : https://github.com/AbinayaThulsi/MSR-Soft-Alignment-Model-for-Bug-Duplication/tree/main/process
+The code siamese_pairs.py should be pasted in experiments directory of Assignment 2.
+And the siamese_pair_test_eclipse.json should be pasted in the directory path HOME_DIR\duplicate-bug-report\json_parameters of Assignment 2.
 After pasting with other codes below command should be used to run the code.
 python3 experiments/siamese_pairs.py  -F HOME_DIR/experiments with HOME_DIR/duplicate-bug-report/json_parameters/siamese_pair_test_eclipse.json "recall_rate.window=365"
