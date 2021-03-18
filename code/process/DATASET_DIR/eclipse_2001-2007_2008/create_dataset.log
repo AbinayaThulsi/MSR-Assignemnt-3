@@ -1,0 +1,2164 @@
+Namespace(bug_data='DATASET_DIR/eclipse_2001-2007_2008/eclipse_initial.json', collection='initial', database='eclipse', date='2008/01/01', date_threshold='2008/12/31', dev_date=None, dev_perc=0.05, keep_master=False, no_tree=True, rm_empty_report=False, test='DATASET_DIR/eclipse_2001-2007_2008/test_eclipse.txt', test_dt_start_count=None, test_duplicate_bf=0, test_perc=-1, training='DATASET_DIR/eclipse_2001-2007_2008/training_split_eclipse.txt', validation='DATASET_DIR/eclipse_2001-2007_2008/validation_eclipse.txt', without_timezone=False)
+Warning: you disabled the keep_master parameter. Be sure that all bugs belong to only 1 master set.
+Reading database
+Number of reports that were created after 2008/12/31: 164879
+We didnt find the master report 294986 that has 3 duplicate. New master 6172. 
+We had to merge two master sets
+We didnt find the master report 285720 that has 1 duplicate. New master 17432. 
+We didnt find the master report 260909 that has 1 duplicate. New master 26029. 
+We didnt find the master report 284885 that has 1 duplicate. New master 26165. 
+We didnt find the master report 290430 that has 1 duplicate. New master 29522. 
+We didnt find the master report 406463 that has 1 duplicate. New master 32971. 
+We didnt find the master report 377318 that has 1 duplicate. New master 34310. 
+We didnt find the master report 424501 that has 1 duplicate. New master 34928. 
+We didnt find the master report 266651 that has 2 duplicate. New master 34944. 
+We didnt find the master report 287303 that has 1 duplicate. New master 35745. 
+We didnt find the master report 346309 that has 1 duplicate. New master 39970. 
+We didnt find the master report 318682 that has 1 duplicate. New master 40536. 
+We didnt find the master report 285637 that has 2 duplicate. New master 40597. 
+We had to merge two master sets
+We didnt find the master report 362415 that has 1 duplicate. New master 44787. 
+We didnt find the master report 280053 that has 1 duplicate. New master 45071. 
+We didnt find the master report 365820 that has 1 duplicate. New master 46318. 
+We didnt find the master report 342600 that has 1 duplicate. New master 47340. 
+We didnt find the master report 295625 that has 1 duplicate. New master 50124. 
+We didnt find the master report 383690 that has 1 duplicate. New master 51689. 
+We didnt find the master report 297337 that has 1 duplicate. New master 52023. 
+We didnt find the master report 264666 that has 1 duplicate. New master 52101. 
+We didnt find the master report 370441 that has 1 duplicate. New master 53609. 
+We didnt find the master report 411794 that has 1 duplicate. New master 57570. 
+We didnt find the master report 325235 that has 1 duplicate. New master 58546. 
+We didnt find the master report 294106 that has 1 duplicate. New master 59612. 
+We didnt find the master report 273047 that has 1 duplicate. New master 60717. 
+We didnt find the master report 278234 that has 4 duplicate. New master 64929. 
+We didnt find the master report 394692 that has 5 duplicate. New master 65876. 
+We didnt find the master report 308043 that has 1 duplicate. New master 66585. 
+We didnt find the master report 383773 that has 1 duplicate. New master 69630. 
+We didnt find the master report 267454 that has 1 duplicate. New master 70363. 
+We didnt find the master report 272567 that has 1 duplicate. New master 71156. 
+We didnt find the master report 418692 that has 1 duplicate. New master 71575. 
+We didnt find the master report 260018 that has 1 duplicate. New master 72211. 
+We didnt find the master report 266183 that has 1 duplicate. New master 75590. 
+We didnt find the master report 264036 that has 1 duplicate. New master 75737. 
+We didnt find the master report 331485 that has 2 duplicate. New master 77284. 
+We didnt find the master report 299384 that has 2 duplicate. New master 80742. 
+We didnt find the master report 299423 that has 2 duplicate. New master 81656. 
+We had to merge two master sets
+We didnt find the master report 264112 that has 13 duplicate. New master 83915. 
+We didnt find the master report 326059 that has 1 duplicate. New master 85279. 
+We didnt find the master report 267386 that has 1 duplicate. New master 85449. 
+We didnt find the master report 372030 that has 1 duplicate. New master 86687. 
+We didnt find the master report 269112 that has 1 duplicate. New master 90276. 
+We didnt find the master report 260328 that has 1 duplicate. New master 95315. 
+We didnt find the master report 346039 that has 1 duplicate. New master 96330. 
+We didnt find the master report 266937 that has 1 duplicate. New master 97536. 
+We didnt find the master report 323706 that has 1 duplicate. New master 100909. 
+We didnt find the master report 298355 that has 1 duplicate. New master 102658. 
+We didnt find the master report 265772 that has 1 duplicate. New master 103504. 
+We didnt find the master report 331195 that has 1 duplicate. New master 104395. 
+We didnt find the master report 286969 that has 1 duplicate. New master 104626. 
+We didnt find the master report 295482 that has 1 duplicate. New master 105195. 
+We didnt find the master report 378139 that has 1 duplicate. New master 106371. 
+We didnt find the master report 260762 that has 1 duplicate. New master 107668. 
+We didnt find the master report 286177 that has 1 duplicate. New master 107672. 
+We didnt find the master report 339777 that has 1 duplicate. New master 108067. 
+We didnt find the master report 294088 that has 1 duplicate. New master 108216. 
+We didnt find the master report 267469 that has 1 duplicate. New master 108735. 
+We didnt find the master report 278299 that has 1 duplicate. New master 109023. 
+We didnt find the master report 316223 that has 2 duplicate. New master 112807. 
+We had to merge two master sets
+We didnt find the master report 285822 that has 1 duplicate. New master 113534. 
+We didnt find the master report 330859 that has 2 duplicate. New master 114447. 
+We didnt find the master report 261865 that has 2 duplicate. New master 114896. 
+We didnt find the master report 292740 that has 1 duplicate. New master 115055. 
+We didnt find the master report 264715 that has 3 duplicate. New master 115063. 
+We didnt find the master report 283555 that has 1 duplicate. New master 115558. 
+We didnt find the master report 412317 that has 1 duplicate. New master 116542. 
+We didnt find the master report 286951 that has 2 duplicate. New master 117708. 
+We didnt find the master report 381142 that has 1 duplicate. New master 117774. 
+We didnt find the master report 263845 that has 1 duplicate. New master 119014. 
+We didnt find the master report 290059 that has 1 duplicate. New master 119799. 
+We didnt find the master report 278257 that has 1 duplicate. New master 120099. 
+We didnt find the master report 281146 that has 1 duplicate. New master 120878. 
+We didnt find the master report 328034 that has 1 duplicate. New master 122758. 
+We didnt find the master report 318681 that has 1 duplicate. New master 123421. 
+We didnt find the master report 344101 that has 1 duplicate. New master 123598. 
+We didnt find the master report 272248 that has 1 duplicate. New master 125124. 
+We didnt find the master report 325614 that has 1 duplicate. New master 127814. 
+We didnt find the master report 263316 that has 1 duplicate. New master 129747. 
+We didnt find the master report 296805 that has 1 duplicate. New master 129950. 
+We didnt find the master report 274945 that has 1 duplicate. New master 130691. 
+We didnt find the master report 284447 that has 1 duplicate. New master 131566. 
+We didnt find the master report 419411 that has 1 duplicate. New master 131705. 
+We didnt find the master report 277482 that has 1 duplicate. New master 133359. 
+We didnt find the master report 409023 that has 1 duplicate. New master 133585. 
+We didnt find the master report 260771 that has 1 duplicate. New master 137161. 
+We didnt find the master report 268665 that has 1 duplicate. New master 137175. 
+We didnt find the master report 388568 that has 1 duplicate. New master 137581. 
+We didnt find the master report 296802 that has 1 duplicate. New master 138121. 
+We didnt find the master report 289767 that has 4 duplicate. New master 138173. 
+We didnt find the master report 266683 that has 1 duplicate. New master 139092. 
+We didnt find the master report 302125 that has 2 duplicate. New master 143759. 
+We didnt find the master report 260122 that has 1 duplicate. New master 145469. 
+We didnt find the master report 293705 that has 1 duplicate. New master 146646. 
+We didnt find the master report 303960 that has 1 duplicate. New master 147432. 
+We didnt find the master report 281529 that has 1 duplicate. New master 147789. 
+We didnt find the master report 270007 that has 1 duplicate. New master 148134. 
+We didnt find the master report 360289 that has 1 duplicate. New master 148827. 
+We didnt find the master report 287383 that has 1 duplicate. New master 149246. 
+We didnt find the master report 296625 that has 1 duplicate. New master 149379. 
+We didnt find the master report 294972 that has 1 duplicate. New master 150529. 
+We didnt find the master report 305672 that has 1 duplicate. New master 151736. 
+We didnt find the master report 288451 that has 1 duplicate. New master 151887. 
+We didnt find the master report 291528 that has 2 duplicate. New master 151966. 
+We didnt find the master report 282554 that has 1 duplicate. New master 152022. 
+We didnt find the master report 286929 that has 1 duplicate. New master 152190. 
+We didnt find the master report 329300 that has 1 duplicate. New master 152271. 
+We didnt find the master report 272378 that has 1 duplicate. New master 152690. 
+We didnt find the master report 285285 that has 1 duplicate. New master 153425. 
+We didnt find the master report 360935 that has 1 duplicate. New master 154159. 
+We didnt find the master report 337156 that has 1 duplicate. New master 154740. 
+We didnt find the master report 275702 that has 1 duplicate. New master 155393. 
+We didnt find the master report 285305 that has 1 duplicate. New master 156693. 
+We didnt find the master report 265375 that has 1 duplicate. New master 156717. 
+We didnt find the master report 292792 that has 1 duplicate. New master 156766. 
+We didnt find the master report 281380 that has 3 duplicate. New master 158877. 
+We didnt find the master report 304393 that has 2 duplicate. New master 159259. 
+We didnt find the master report 302772 that has 1 duplicate. New master 159950. 
+We didnt find the master report 260371 that has 1 duplicate. New master 161245. 
+We didnt find the master report 279562 that has 1 duplicate. New master 162415. 
+We didnt find the master report 322817 that has 1 duplicate. New master 163093. 
+We didnt find the master report 260537 that has 1 duplicate. New master 163537. 
+We didnt find the master report 329587 that has 1 duplicate. New master 163979. 
+We didnt find the master report 277530 that has 2 duplicate. New master 164079. 
+We didnt find the master report 261147 that has 1 duplicate. New master 164082. 
+We didnt find the master report 285711 that has 1 duplicate. New master 164199. 
+We didnt find the master report 274496 that has 1 duplicate. New master 164486. 
+We didnt find the master report 302396 that has 2 duplicate. New master 165030. 
+We didnt find the master report 283840 that has 2 duplicate. New master 166557. 
+We didnt find the master report 291654 that has 1 duplicate. New master 168522. 
+We didnt find the master report 295544 that has 1 duplicate. New master 168538. 
+We didnt find the master report 314849 that has 1 duplicate. New master 168558. 
+We didnt find the master report 280784 that has 1 duplicate. New master 168604. 
+We didnt find the master report 269079 that has 1 duplicate. New master 169887. 
+We didnt find the master report 300031 that has 1 duplicate. New master 169995. 
+We didnt find the master report 322531 that has 1 duplicate. New master 170064. 
+We didnt find the master report 394509 that has 1 duplicate. New master 170200. 
+We didnt find the master report 303463 that has 2 duplicate. New master 170406. 
+We didnt find the master report 272211 that has 1 duplicate. New master 170544. 
+We didnt find the master report 269601 that has 1 duplicate. New master 170894. 
+We didnt find the master report 375821 that has 1 duplicate. New master 170968. 
+We didnt find the master report 265798 that has 1 duplicate. New master 171480. 
+We didnt find the master report 269420 that has 1 duplicate. New master 171518. 
+We didnt find the master report 333183 that has 1 duplicate. New master 171674. 
+We didnt find the master report 293747 that has 1 duplicate. New master 171987. 
+We didnt find the master report 292908 that has 1 duplicate. New master 172214. 
+We didnt find the master report 309104 that has 1 duplicate. New master 172788. 
+We didnt find the master report 278102 that has 2 duplicate. New master 173810. 
+We didnt find the master report 305729 that has 1 duplicate. New master 174062. 
+We didnt find the master report 287902 that has 1 duplicate. New master 174746. 
+We didnt find the master report 269442 that has 1 duplicate. New master 174772. 
+We didnt find the master report 286282 that has 1 duplicate. New master 174895. 
+We didnt find the master report 289073 that has 1 duplicate. New master 175128. 
+We didnt find the master report 298031 that has 1 duplicate. New master 175582. 
+We didnt find the master report 279170 that has 1 duplicate. New master 175946. 
+We didnt find the master report 306220 that has 1 duplicate. New master 175997. 
+We didnt find the master report 308095 that has 1 duplicate. New master 176864. 
+We didnt find the master report 327769 that has 1 duplicate. New master 177756. 
+We didnt find the master report 423214 that has 1 duplicate. New master 178009. 
+We didnt find the master report 291751 that has 2 duplicate. New master 178130. 
+We had to merge two master sets
+We didnt find the master report 297526 that has 1 duplicate. New master 178454. 
+We didnt find the master report 290769 that has 1 duplicate. New master 179001. 
+We didnt find the master report 305259 that has 1 duplicate. New master 179195. 
+We didnt find the master report 263305 that has 1 duplicate. New master 180348. 
+We didnt find the master report 272609 that has 1 duplicate. New master 180619. 
+We didnt find the master report 266186 that has 3 duplicate. New master 181258. 
+We didnt find the master report 326974 that has 1 duplicate. New master 182951. 
+We didnt find the master report 302860 that has 1 duplicate. New master 183031. 
+We didnt find the master report 271326 that has 1 duplicate. New master 183296. 
+We didnt find the master report 346174 that has 1 duplicate. New master 183884. 
+We didnt find the master report 290041 that has 2 duplicate. New master 184149. 
+We didnt find the master report 268840 that has 1 duplicate. New master 184849. 
+We didnt find the master report 289655 that has 1 duplicate. New master 185050. 
+We didnt find the master report 365380 that has 1 duplicate. New master 185060. 
+We didnt find the master report 295339 that has 1 duplicate. New master 186369. 
+We didnt find the master report 266380 that has 1 duplicate. New master 187116. 
+We didnt find the master report 340710 that has 1 duplicate. New master 187502. 
+We didnt find the master report 293300 that has 1 duplicate. New master 188119. 
+We didnt find the master report 312204 that has 1 duplicate. New master 188983. 
+We didnt find the master report 310636 that has 1 duplicate. New master 189707. 
+We didnt find the master report 308741 that has 1 duplicate. New master 191094. 
+We didnt find the master report 406646 that has 1 duplicate. New master 191789. 
+We didnt find the master report 286284 that has 1 duplicate. New master 192657. 
+We didnt find the master report 311039 that has 1 duplicate. New master 192687. 
+We didnt find the master report 292027 that has 1 duplicate. New master 192816. 
+We didnt find the master report 267118 that has 1 duplicate. New master 193010. 
+We didnt find the master report 290555 that has 1 duplicate. New master 193757. 
+We didnt find the master report 398083 that has 1 duplicate. New master 193946. 
+We didnt find the master report 305505 that has 1 duplicate. New master 195712. 
+We didnt find the master report 407070 that has 1 duplicate. New master 196085. 
+We didnt find the master report 266030 that has 1 duplicate. New master 196595. 
+We didnt find the master report 273469 that has 1 duplicate. New master 196914. 
+We didnt find the master report 299421 that has 1 duplicate. New master 197104. 
+We didnt find the master report 395645 that has 1 duplicate. New master 197258. 
+We didnt find the master report 312228 that has 1 duplicate. New master 197284. 
+We didnt find the master report 284945 that has 1 duplicate. New master 197789. 
+We didnt find the master report 341232 that has 1 duplicate. New master 197892. 
+We didnt find the master report 325342 that has 1 duplicate. New master 198044. 
+We didnt find the master report 271844 that has 1 duplicate. New master 198150. 
+We didnt find the master report 279609 that has 1 duplicate. New master 198326. 
+We didnt find the master report 292427 that has 1 duplicate. New master 198565. 
+We didnt find the master report 271960 that has 1 duplicate. New master 198854. 
+We didnt find the master report 301223 that has 1 duplicate. New master 199110. 
+We didnt find the master report 273241 that has 1 duplicate. New master 199465. 
+We didnt find the master report 266495 that has 1 duplicate. New master 199671. 
+We didnt find the master report 395071 that has 2 duplicate. New master 200015. 
+We didnt find the master report 352131 that has 1 duplicate. New master 200204. 
+We didnt find the master report 304139 that has 1 duplicate. New master 200298. 
+We didnt find the master report 273134 that has 1 duplicate. New master 201644. 
+We didnt find the master report 291737 that has 1 duplicate. New master 203054. 
+We didnt find the master report 265282 that has 2 duplicate. New master 203258. 
+We didnt find the master report 327471 that has 1 duplicate. New master 203725. 
+We didnt find the master report 265130 that has 1 duplicate. New master 204166. 
+We didnt find the master report 324347 that has 1 duplicate. New master 204709. 
+We didnt find the master report 265364 that has 1 duplicate. New master 204975. 
+We didnt find the master report 332220 that has 1 duplicate. New master 205035. 
+We didnt find the master report 288478 that has 1 duplicate. New master 206287. 
+We didnt find the master report 303900 that has 1 duplicate. New master 206954. 
+We didnt find the master report 266738 that has 1 duplicate. New master 207080. 
+We didnt find the master report 337666 that has 1 duplicate. New master 207372. 
+We didnt find the master report 293061 that has 2 duplicate. New master 207566. 
+We didnt find the master report 365541 that has 1 duplicate. New master 207582. 
+We didnt find the master report 280337 that has 1 duplicate. New master 207651. 
+We didnt find the master report 282030 that has 1 duplicate. New master 207809. 
+We didnt find the master report 264413 that has 1 duplicate. New master 207861. 
+We didnt find the master report 400693 that has 1 duplicate. New master 208018. 
+We didnt find the master report 335633 that has 1 duplicate. New master 208348. 
+We didnt find the master report 278402 that has 1 duplicate. New master 208672. 
+We didnt find the master report 310835 that has 3 duplicate. New master 209434. 
+We didnt find the master report 278879 that has 1 duplicate. New master 209606. 
+We didnt find the master report 262096 that has 2 duplicate. New master 209686. 
+We didnt find the master report 277245 that has 3 duplicate. New master 210020. 
+We didnt find the master report 283368 that has 1 duplicate. New master 210907. 
+We didnt find the master report 282410 that has 1 duplicate. New master 211503. 
+We didnt find the master report 272850 that has 1 duplicate. New master 211642. 
+We didnt find the master report 276686 that has 1 duplicate. New master 212213. 
+We didnt find the master report 285200 that has 1 duplicate. New master 212298. 
+We didnt find the master report 279835 that has 2 duplicate. New master 212805. 
+We didnt find the master report 329995 that has 1 duplicate. New master 213300. 
+We didnt find the master report 259919 that has 1 duplicate. New master 213378. 
+We didnt find the master report 288347 that has 2 duplicate. New master 213528. 
+We didnt find the master report 365561 that has 1 duplicate. New master 214018. 
+We didnt find the master report 278933 that has 1 duplicate. New master 214630. 
+We didnt find the master report 325090 that has 2 duplicate. New master 214830. 
+We didnt find the master report 301767 that has 1 duplicate. New master 215060. 
+We didnt find the master report 400636 that has 1 duplicate. New master 215142. 
+We didnt find the master report 293044 that has 1 duplicate. New master 215178. 
+We didnt find the master report 304197 that has 1 duplicate. New master 215313. 
+We didnt find the master report 267712 that has 1 duplicate. New master 215509. 
+We didnt find the master report 262440 that has 1 duplicate. New master 215577. 
+We didnt find the master report 275282 that has 1 duplicate. New master 215595. 
+We didnt find the master report 275847 that has 1 duplicate. New master 215729. 
+We didnt find the master report 263949 that has 1 duplicate. New master 216464. 
+We didnt find the master report 324435 that has 1 duplicate. New master 216784. 
+We didnt find the master report 336853 that has 1 duplicate. New master 217082. 
+We didnt find the master report 275839 that has 3 duplicate. New master 217370. 
+We didnt find the master report 279905 that has 1 duplicate. New master 217404. 
+We didnt find the master report 343925 that has 1 duplicate. New master 217505. 
+We didnt find the master report 276799 that has 2 duplicate. New master 217633. 
+We didnt find the master report 296339 that has 1 duplicate. New master 218315. 
+We didnt find the master report 295961 that has 1 duplicate. New master 218526. 
+We didnt find the master report 262464 that has 1 duplicate. New master 218649. 
+We didnt find the master report 327515 that has 1 duplicate. New master 218863. 
+We didnt find the master report 273328 that has 1 duplicate. New master 218923. 
+We didnt find the master report 299636 that has 1 duplicate. New master 219056. 
+We didnt find the master report 281023 that has 1 duplicate. New master 219262. 
+We didnt find the master report 296904 that has 1 duplicate. New master 219295. 
+We didnt find the master report 292468 that has 1 duplicate. New master 219841. 
+We didnt find the master report 297134 that has 1 duplicate. New master 219847. 
+We didnt find the master report 281794 that has 1 duplicate. New master 220055. 
+We didnt find the master report 325995 that has 1 duplicate. New master 220098. 
+We didnt find the master report 316840 that has 1 duplicate. New master 220132. 
+We didnt find the master report 273822 that has 1 duplicate. New master 220223. 
+We didnt find the master report 262333 that has 1 duplicate. New master 220647. 
+We didnt find the master report 261331 that has 1 duplicate. New master 220839. 
+We didnt find the master report 261024 that has 1 duplicate. New master 220915. 
+We didnt find the master report 272811 that has 1 duplicate. New master 220981. 
+We didnt find the master report 280621 that has 1 duplicate. New master 221055. 
+We didnt find the master report 337022 that has 1 duplicate. New master 221595. 
+We didnt find the master report 313811 that has 1 duplicate. New master 221644. 
+We didnt find the master report 265465 that has 1 duplicate. New master 221774. 
+We didnt find the master report 310688 that has 1 duplicate. New master 222185. 
+We didnt find the master report 274127 that has 1 duplicate. New master 222260. 
+We didnt find the master report 278016 that has 1 duplicate. New master 222662. 
+We didnt find the master report 261104 that has 1 duplicate. New master 222784. 
+We didnt find the master report 285397 that has 1 duplicate. New master 222996. 
+We didnt find the master report 321881 that has 1 duplicate. New master 223052. 
+We didnt find the master report 296512 that has 1 duplicate. New master 223381. 
+We didnt find the master report 311979 that has 1 duplicate. New master 223678. 
+We didnt find the master report 349771 that has 1 duplicate. New master 224119. 
+We didnt find the master report 276371 that has 1 duplicate. New master 224654. 
+We didnt find the master report 310165 that has 1 duplicate. New master 224775. 
+We didnt find the master report 371935 that has 1 duplicate. New master 225074. 
+We didnt find the master report 272959 that has 1 duplicate. New master 225340. 
+We didnt find the master report 268837 that has 1 duplicate. New master 225518. 
+We didnt find the master report 309576 that has 1 duplicate. New master 225609. 
+We didnt find the master report 299857 that has 1 duplicate. New master 225742. 
+We didnt find the master report 335976 that has 1 duplicate. New master 225780. 
+We didnt find the master report 279627 that has 1 duplicate. New master 225808. 
+We didnt find the master report 403201 that has 1 duplicate. New master 226476. 
+We didnt find the master report 276539 that has 1 duplicate. New master 226558. 
+We didnt find the master report 266233 that has 1 duplicate. New master 226639. 
+We didnt find the master report 272425 that has 1 duplicate. New master 227288. 
+We didnt find the master report 302408 that has 1 duplicate. New master 227424. 
+We didnt find the master report 278660 that has 1 duplicate. New master 227425. 
+We didnt find the master report 279781 that has 1 duplicate. New master 227443. 
+We didnt find the master report 321952 that has 1 duplicate. New master 227466. 
+We didnt find the master report 263238 that has 1 duplicate. New master 227499. 
+We didnt find the master report 322168 that has 1 duplicate. New master 227607. 
+We didnt find the master report 273184 that has 1 duplicate. New master 227733. 
+We didnt find the master report 282313 that has 2 duplicate. New master 227780. 
+We didnt find the master report 290254 that has 1 duplicate. New master 228260. 
+We didnt find the master report 290663 that has 1 duplicate. New master 228315. 
+We didnt find the master report 281577 that has 1 duplicate. New master 228319. 
+We didnt find the master report 277812 that has 1 duplicate. New master 228412. 
+We didnt find the master report 306987 that has 1 duplicate. New master 228962. 
+We didnt find the master report 318433 that has 1 duplicate. New master 229842. 
+We didnt find the master report 273177 that has 1 duplicate. New master 229880. 
+We didnt find the master report 266510 that has 1 duplicate. New master 229899. 
+We didnt find the master report 281359 that has 1 duplicate. New master 230717. 
+We didnt find the master report 319899 that has 1 duplicate. New master 230859. 
+We didnt find the master report 260571 that has 1 duplicate. New master 230927. 
+We didnt find the master report 403418 that has 1 duplicate. New master 230925. 
+We didnt find the master report 275486 that has 1 duplicate. New master 231287. 
+We didnt find the master report 372575 that has 1 duplicate. New master 231292. 
+We didnt find the master report 280781 that has 1 duplicate. New master 231384. 
+We didnt find the master report 268243 that has 1 duplicate. New master 231807. 
+We didnt find the master report 286162 that has 1 duplicate. New master 231815. 
+We didnt find the master report 262310 that has 1 duplicate. New master 232244. 
+We didnt find the master report 260105 that has 1 duplicate. New master 232294. 
+We didnt find the master report 312310 that has 1 duplicate. New master 232436. 
+We didnt find the master report 330152 that has 1 duplicate. New master 232438. 
+We didnt find the master report 290061 that has 1 duplicate. New master 232849. 
+We didnt find the master report 300394 that has 2 duplicate. New master 232915. 
+We didnt find the master report 342516 that has 1 duplicate. New master 233013. 
+We didnt find the master report 269297 that has 1 duplicate. New master 233025. 
+We didnt find the master report 266739 that has 1 duplicate. New master 233071. 
+We didnt find the master report 291631 that has 1 duplicate. New master 233092. 
+We didnt find the master report 342610 that has 1 duplicate. New master 233093. 
+We didnt find the master report 271585 that has 1 duplicate. New master 233180. 
+We didnt find the master report 317129 that has 1 duplicate. New master 233281. 
+We didnt find the master report 385642 that has 1 duplicate. New master 233528. 
+We didnt find the master report 279797 that has 1 duplicate. New master 233630. 
+We didnt find the master report 262557 that has 2 duplicate. New master 233902. 
+We didnt find the master report 260836 that has 1 duplicate. New master 233998. 
+We didnt find the master report 294893 that has 1 duplicate. New master 234050. 
+We didnt find the master report 295284 that has 1 duplicate. New master 234263. 
+We didnt find the master report 268402 that has 1 duplicate. New master 234300. 
+We didnt find the master report 277438 that has 1 duplicate. New master 234332. 
+We didnt find the master report 358681 that has 1 duplicate. New master 234357. 
+We didnt find the master report 274872 that has 1 duplicate. New master 234426. 
+We didnt find the master report 415024 that has 1 duplicate. New master 234589. 
+We didnt find the master report 277574 that has 2 duplicate. New master 234769. 
+We didnt find the master report 267926 that has 1 duplicate. New master 234927. 
+We didnt find the master report 278575 that has 1 duplicate. New master 234993. 
+We didnt find the master report 269369 that has 1 duplicate. New master 235034. 
+We didnt find the master report 403559 that has 1 duplicate. New master 235090. 
+We didnt find the master report 313043 that has 1 duplicate. New master 235118. 
+We didnt find the master report 272912 that has 1 duplicate. New master 235235. 
+We didnt find the master report 280015 that has 1 duplicate. New master 235273. 
+We didnt find the master report 274212 that has 1 duplicate. New master 235420. 
+We didnt find the master report 298997 that has 1 duplicate. New master 235414. 
+We didnt find the master report 260777 that has 1 duplicate. New master 235494. 
+We didnt find the master report 270884 that has 1 duplicate. New master 235557. 
+We didnt find the master report 303085 that has 2 duplicate. New master 235596. 
+We didnt find the master report 305358 that has 1 duplicate. New master 235713. 
+We didnt find the master report 295089 that has 1 duplicate. New master 235827. 
+We didnt find the master report 343718 that has 1 duplicate. New master 236243. 
+We didnt find the master report 276879 that has 1 duplicate. New master 236452. 
+We didnt find the master report 266488 that has 1 duplicate. New master 236529. 
+We didnt find the master report 286274 that has 2 duplicate. New master 236619. 
+We didnt find the master report 267728 that has 1 duplicate. New master 236652. 
+We didnt find the master report 269525 that has 1 duplicate. New master 236885. 
+We didnt find the master report 326044 that has 1 duplicate. New master 236892. 
+We didnt find the master report 311210 that has 1 duplicate. New master 237021. 
+We didnt find the master report 381975 that has 1 duplicate. New master 237638. 
+We didnt find the master report 273515 that has 1 duplicate. New master 237634. 
+We didnt find the master report 306057 that has 1 duplicate. New master 237707. 
+We didnt find the master report 287695 that has 1 duplicate. New master 237719. 
+We didnt find the master report 284699 that has 1 duplicate. New master 237771. 
+We didnt find the master report 279633 that has 1 duplicate. New master 237880. 
+We didnt find the master report 265065 that has 1 duplicate. New master 238282. 
+We didnt find the master report 270542 that has 1 duplicate. New master 238286. 
+We didnt find the master report 263613 that has 2 duplicate. New master 238548. 
+We didnt find the master report 268144 that has 1 duplicate. New master 238573. 
+We didnt find the master report 274640 that has 1 duplicate. New master 238610. 
+We didnt find the master report 277213 that has 1 duplicate. New master 238827. 
+We didnt find the master report 282427 that has 1 duplicate. New master 238908. 
+We didnt find the master report 270560 that has 1 duplicate. New master 238924. 
+We didnt find the master report 329098 that has 1 duplicate. New master 239338. 
+We didnt find the master report 261420 that has 1 duplicate. New master 239339. 
+We didnt find the master report 299955 that has 1 duplicate. New master 239349. 
+We didnt find the master report 290913 that has 1 duplicate. New master 239433. 
+We didnt find the master report 271953 that has 1 duplicate. New master 239589. 
+We didnt find the master report 281382 that has 1 duplicate. New master 239598. 
+We didnt find the master report 260282 that has 1 duplicate. New master 239716. 
+We didnt find the master report 312947 that has 1 duplicate. New master 239733. 
+We didnt find the master report 261660 that has 1 duplicate. New master 240012. 
+We didnt find the master report 261666 that has 1 duplicate. New master 240014. 
+We didnt find the master report 350375 that has 1 duplicate. New master 240048. 
+We didnt find the master report 264247 that has 1 duplicate. New master 240321. 
+We didnt find the master report 301206 that has 1 duplicate. New master 240671. 
+We didnt find the master report 263039 that has 1 duplicate. New master 241102. 
+We didnt find the master report 309113 that has 1 duplicate. New master 241301. 
+We didnt find the master report 282773 that has 1 duplicate. New master 241305. 
+We didnt find the master report 329149 that has 1 duplicate. New master 241480. 
+We didnt find the master report 317102 that has 1 duplicate. New master 241624. 
+We didnt find the master report 355825 that has 1 duplicate. New master 241648. 
+We didnt find the master report 317286 that has 1 duplicate. New master 241704. 
+We didnt find the master report 276181 that has 1 duplicate. New master 241745. 
+We didnt find the master report 289461 that has 1 duplicate. New master 242095. 
+We didnt find the master report 305590 that has 1 duplicate. New master 242131. 
+We didnt find the master report 264152 that has 1 duplicate. New master 242167. 
+We didnt find the master report 288663 that has 1 duplicate. New master 242282. 
+We didnt find the master report 266393 that has 1 duplicate. New master 242303. 
+We didnt find the master report 387586 that has 1 duplicate. New master 242463. 
+We didnt find the master report 287763 that has 1 duplicate. New master 242905. 
+We didnt find the master report 264712 that has 1 duplicate. New master 243011. 
+We didnt find the master report 289722 that has 1 duplicate. New master 243066. 
+We didnt find the master report 280193 that has 1 duplicate. New master 243247. 
+We didnt find the master report 294803 that has 1 duplicate. New master 243301. 
+We didnt find the master report 284148 that has 1 duplicate. New master 243551. 
+We didnt find the master report 261933 that has 1 duplicate. New master 243833. 
+We didnt find the master report 376206 that has 1 duplicate. New master 243893. 
+We didnt find the master report 290263 that has 1 duplicate. New master 244222. 
+We didnt find the master report 261824 that has 1 duplicate. New master 244305. 
+We didnt find the master report 277152 that has 1 duplicate. New master 244357. 
+We didnt find the master report 277187 that has 1 duplicate. New master 244447. 
+We didnt find the master report 260668 that has 1 duplicate. New master 244680. 
+We didnt find the master report 310932 that has 2 duplicate. New master 244703. 
+We didnt find the master report 375895 that has 1 duplicate. New master 244707. 
+We didnt find the master report 301906 that has 1 duplicate. New master 244732. 
+We didnt find the master report 294985 that has 1 duplicate. New master 244799. 
+We didnt find the master report 266364 that has 1 duplicate. New master 245344. 
+We didnt find the master report 307356 that has 1 duplicate. New master 245526. 
+We didnt find the master report 282238 that has 1 duplicate. New master 245531. 
+We didnt find the master report 295290 that has 1 duplicate. New master 245589. 
+We didnt find the master report 271654 that has 1 duplicate. New master 245640. 
+We didnt find the master report 279566 that has 1 duplicate. New master 245769. 
+We didnt find the master report 323828 that has 1 duplicate. New master 245836. 
+We didnt find the master report 260850 that has 2 duplicate. New master 245893. 
+We didnt find the master report 261873 that has 1 duplicate. New master 245896. 
+We didnt find the master report 261584 that has 1 duplicate. New master 246152. 
+We didnt find the master report 285932 that has 1 duplicate. New master 246187. 
+We didnt find the master report 260581 that has 1 duplicate. New master 246238. 
+We didnt find the master report 363845 that has 1 duplicate. New master 246495. 
+We didnt find the master report 266582 that has 1 duplicate. New master 246728. 
+We didnt find the master report 290605 that has 1 duplicate. New master 246895. 
+We didnt find the master report 264264 that has 1 duplicate. New master 247029. 
+We didnt find the master report 261756 that has 1 duplicate. New master 247242. 
+We didnt find the master report 288560 that has 1 duplicate. New master 247324. 
+We didnt find the master report 261388 that has 1 duplicate. New master 247330. 
+We didnt find the master report 325997 that has 1 duplicate. New master 247332. 
+We didnt find the master report 389102 that has 1 duplicate. New master 247373. 
+We didnt find the master report 281774 that has 1 duplicate. New master 247421. 
+We didnt find the master report 265427 that has 1 duplicate. New master 247552. 
+We didnt find the master report 414237 that has 1 duplicate. New master 247564. 
+We didnt find the master report 281877 that has 1 duplicate. New master 247639. 
+We didnt find the master report 263593 that has 1 duplicate. New master 247950. 
+We didnt find the master report 392882 that has 1 duplicate. New master 248043. 
+We didnt find the master report 305895 that has 1 duplicate. New master 248070. 
+We didnt find the master report 274898 that has 1 duplicate. New master 248246. 
+We didnt find the master report 277492 that has 1 duplicate. New master 248449. 
+We didnt find the master report 283625 that has 1 duplicate. New master 248580. 
+We didnt find the master report 260638 that has 1 duplicate. New master 248590. 
+We didnt find the master report 275308 that has 1 duplicate. New master 248650. 
+We didnt find the master report 263449 that has 1 duplicate. New master 248725. 
+We didnt find the master report 290207 that has 1 duplicate. New master 248755. 
+We didnt find the master report 274550 that has 1 duplicate. New master 248779. 
+We didnt find the master report 295021 that has 1 duplicate. New master 248787. 
+We didnt find the master report 259879 that has 1 duplicate. New master 248819. 
+We didnt find the master report 321840 that has 1 duplicate. New master 248988. 
+We didnt find the master report 263999 that has 1 duplicate. New master 249004. 
+We didnt find the master report 330923 that has 1 duplicate. New master 249063. 
+We didnt find the master report 290233 that has 1 duplicate. New master 249086. 
+We didnt find the master report 268527 that has 1 duplicate. New master 249171. 
+We didnt find the master report 349609 that has 2 duplicate. New master 249188. 
+We didnt find the master report 273894 that has 1 duplicate. New master 249192. 
+We didnt find the master report 268827 that has 1 duplicate. New master 249212. 
+We didnt find the master report 315234 that has 1 duplicate. New master 249225. 
+We didnt find the master report 344905 that has 1 duplicate. New master 249257. 
+We didnt find the master report 270090 that has 1 duplicate. New master 249594. 
+We didnt find the master report 273034 that has 1 duplicate. New master 249619. 
+We didnt find the master report 263242 that has 1 duplicate. New master 249638. 
+We didnt find the master report 283950 that has 1 duplicate. New master 249732. 
+We didnt find the master report 379484 that has 1 duplicate. New master 249938. 
+We didnt find the master report 260664 that has 1 duplicate. New master 249956. 
+We didnt find the master report 298590 that has 1 duplicate. New master 250096. 
+We didnt find the master report 375327 that has 1 duplicate. New master 250244. 
+We didnt find the master report 263865 that has 1 duplicate. New master 250459. 
+We didnt find the master report 268775 that has 1 duplicate. New master 250670. 
+We didnt find the master report 289055 that has 1 duplicate. New master 250669. 
+We didnt find the master report 266123 that has 1 duplicate. New master 250884. 
+We didnt find the master report 334801 that has 1 duplicate. New master 250901. 
+We didnt find the master report 325418 that has 1 duplicate. New master 250958. 
+We didnt find the master report 281776 that has 1 duplicate. New master 251227. 
+We didnt find the master report 280631 that has 1 duplicate. New master 251229. 
+We didnt find the master report 299213 that has 1 duplicate. New master 251373. 
+We didnt find the master report 322410 that has 1 duplicate. New master 251417. 
+We didnt find the master report 346636 that has 1 duplicate. New master 251467. 
+We didnt find the master report 280677 that has 1 duplicate. New master 251891. 
+We didnt find the master report 262664 that has 1 duplicate. New master 251943. 
+We didnt find the master report 262041 that has 1 duplicate. New master 252044. 
+We didnt find the master report 328001 that has 1 duplicate. New master 252266. 
+We didnt find the master report 262381 that has 2 duplicate. New master 252346. 
+We didnt find the master report 273470 that has 1 duplicate. New master 252408. 
+We didnt find the master report 260585 that has 1 duplicate. New master 252453. 
+We didnt find the master report 275330 that has 1 duplicate. New master 252492. 
+We didnt find the master report 264553 that has 1 duplicate. New master 252712. 
+We didnt find the master report 315467 that has 1 duplicate. New master 252881. 
+We didnt find the master report 293861 that has 1 duplicate. New master 252920. 
+We didnt find the master report 276061 that has 1 duplicate. New master 252998. 
+We didnt find the master report 316509 that has 1 duplicate. New master 253018. 
+We didnt find the master report 261582 that has 1 duplicate. New master 253518. 
+We didnt find the master report 290034 that has 1 duplicate. New master 253663. 
+We didnt find the master report 263711 that has 1 duplicate. New master 254510. 
+We didnt find the master report 260273 that has 1 duplicate. New master 254549. 
+We didnt find the master report 290741 that has 1 duplicate. New master 254557. 
+We didnt find the master report 353691 that has 1 duplicate. New master 254696. 
+We didnt find the master report 271612 that has 1 duplicate. New master 254760. 
+We didnt find the master report 261850 that has 1 duplicate. New master 254795. 
+We didnt find the master report 283160 that has 1 duplicate. New master 254855. 
+We didnt find the master report 266199 that has 1 duplicate. New master 255139. 
+We didnt find the master report 305172 that has 1 duplicate. New master 255174. 
+We didnt find the master report 334781 that has 1 duplicate. New master 255828. 
+We didnt find the master report 264804 that has 1 duplicate. New master 256073. 
+We didnt find the master report 269489 that has 1 duplicate. New master 256098. 
+We didnt find the master report 286241 that has 1 duplicate. New master 256347. 
+We didnt find the master report 331262 that has 1 duplicate. New master 256433. 
+We didnt find the master report 302491 that has 1 duplicate. New master 256468. 
+We didnt find the master report 319090 that has 1 duplicate. New master 256492. 
+We didnt find the master report 327193 that has 1 duplicate. New master 256584. 
+We didnt find the master report 284519 that has 1 duplicate. New master 256613. 
+We didnt find the master report 282976 that has 1 duplicate. New master 256635. 
+We didnt find the master report 384646 that has 1 duplicate. New master 256725. 
+We didnt find the master report 325125 that has 1 duplicate. New master 256860. 
+We didnt find the master report 262083 that has 1 duplicate. New master 256912. 
+We didnt find the master report 308055 that has 1 duplicate. New master 256917. 
+We didnt find the master report 300149 that has 1 duplicate. New master 256927. 
+We didnt find the master report 348160 that has 1 duplicate. New master 256987. 
+We didnt find the master report 272562 that has 1 duplicate. New master 256990. 
+We didnt find the master report 276845 that has 1 duplicate. New master 257045. 
+We didnt find the master report 308232 that has 1 duplicate. New master 257086. 
+We didnt find the master report 278891 that has 1 duplicate. New master 257488. 
+We didnt find the master report 270189 that has 1 duplicate. New master 257616. 
+We didnt find the master report 283713 that has 1 duplicate. New master 257623. 
+We didnt find the master report 261243 that has 2 duplicate. New master 257690. 
+We didnt find the master report 290193 that has 1 duplicate. New master 257727. 
+We didnt find the master report 318443 that has 1 duplicate. New master 257803. 
+We didnt find the master report 277306 that has 1 duplicate. New master 257819. 
+We didnt find the master report 260300 that has 1 duplicate. New master 257976. 
+We didnt find the master report 260928 that has 1 duplicate. New master 258075. 
+We didnt find the master report 366432 that has 1 duplicate. New master 258096. 
+We didnt find the master report 284202 that has 1 duplicate. New master 258102. 
+We didnt find the master report 262061 that has 1 duplicate. New master 258133. 
+We didnt find the master report 329576 that has 1 duplicate. New master 258182. 
+We didnt find the master report 272601 that has 1 duplicate. New master 258333. 
+We didnt find the master report 399428 that has 1 duplicate. New master 258501. 
+We didnt find the master report 273316 that has 1 duplicate. New master 258504. 
+We didnt find the master report 268215 that has 1 duplicate. New master 258569. 
+We didnt find the master report 262358 that has 1 duplicate. New master 258644. 
+We didnt find the master report 285186 that has 1 duplicate. New master 258650. 
+We didnt find the master report 265882 that has 1 duplicate. New master 258714. 
+We didnt find the master report 411599 that has 1 duplicate. New master 258805. 
+We didnt find the master report 263432 that has 2 duplicate. New master 258821. 
+We didnt find the master report 270716 that has 1 duplicate. New master 258863. 
+We didnt find the master report 276702 that has 1 duplicate. New master 259009. 
+We didnt find the master report 262804 that has 1 duplicate. New master 259020. 
+We didnt find the master report 269004 that has 1 duplicate. New master 259025. 
+We didnt find the master report 277075 that has 1 duplicate. New master 259069. 
+We didnt find the master report 289225 that has 1 duplicate. New master 259145. 
+We didnt find the master report 283759 that has 1 duplicate. New master 259162. 
+We didnt find the master report 262721 that has 1 duplicate. New master 259169. 
+We didnt find the master report 264080 that has 1 duplicate. New master 259320. 
+We didnt find the master report 266595 that has 1 duplicate. New master 259418. 
+We didnt find the master report 266640 that has 1 duplicate. New master 259419. 
+We didnt find the master report 297537 that has 1 duplicate. New master 259637. 
+We didnt find the master report 262797 that has 1 duplicate. New master 259698. 
+We didnt find the master report 271628 that has 1 duplicate. New master 259703. 
+We didnt find the master report 301252 that has 1 duplicate. New master 259726. 
+We didnt find the master report 260123 that has 1 duplicate. New master 259727. 
+We didnt find the master report 265447 that has 1 duplicate. New master 259737. 
+We didnt find the master report 300512 that has 1 duplicate. New master 259746. 
+We didnt find the master report 261759 that has 1 duplicate. New master 259815. 
+Removing cycle {'29986', '29989'} in 29986
+Cycles were removed
+Merging ['178'] with 22806
+Merging ['1555', '1568', '1570', '1619'] with 1667
+Merging ['6949'] with 8772
+Merging ['1642'] with 8772
+Merging ['3943'] with 1614
+Merging ['2041'] with 2859
+Merging ['1947'] with 2172
+Merging ['2593'] with 13467
+Merging ['2110'] with 7790
+Merging ['1878'] with 2266
+Merging ['2508'] with 6271
+Merging ['2847'] with 6271
+Merging ['7890'] with 5693
+Merging ['1526'] with 1633
+Merging ['10464'] with 31299
+Merging ['3833'] with 3636
+Merging ['25256'] with 6325
+Merging ['215'] with 123
+Merging ['52784'] with 60291
+Merging ['1735'] with 3578
+Merging ['104570'] with 154132
+Merging ['5105'] with 4961
+Merging ['4135'] with 37472
+Merging ['5373'] with 12453
+Merging ['5242'] with 12453
+Merging ['3483'] with 4124
+Merging ['35144'] with 231472
+Merging ['9915'] with 30195
+Merging ['5585'] with 6393
+Merging ['6010'] with 133146
+Merging ['5837'] with 5907
+Merging ['6003'] with 6273
+Merging ['5850'] with 5557
+Merging ['21770'] with 25334
+Merging ['3625'] with 5859
+Merging ['6190'] with 20952
+Merging ['6241'] with 6155
+Merging ['6160'] with 6151
+Merging ['1867'] with 8822
+Merging ['6487'] with 4071
+Merging ['6597'] with 6582
+Merging ['7213'] with 21825
+Merging ['6417'] with 11403
+Merging ['6621'] with 6586
+Merging ['4652'] with 23505
+Merging ['2281'] with 21493
+Merging ['7070'] with 7033
+Merging ['6637'] with 21973
+Merging ['7848'] with 7434
+Merging ['14905'] with 116260
+Merging ['8138'] with 14658
+Merging ['35788'] with 27740
+Merging ['8782'] with 9774
+Merging ['8190'] with 9191
+Merging ['8154'] with 8216
+Merging ['9352'] with 23980
+Merging ['8447'] with 8444
+Merging ['8684'] with 13417
+Merging ['8450'] with 6664
+Merging ['19070'] with 14658
+Merging ['8934'] with 6020
+Merging ['8293'] with 23980
+Merging ['9462'] with 7840
+Merging ['9154'] with 9027
+Merging ['11056'] with 9790
+Merging ['8849'] with 12360
+Merging ['11785'] with 6305
+Merging ['9519'] with 6305
+Merging ['13619'] with 12970
+Merging ['45202'] with 22932
+Merging ['7608'] with 16793
+Merging ['5279'] with 3336
+Merging ['10340'] with 10386
+Merging ['10503'] with 14528
+Merging ['7522'] with 14052
+Merging ['7232'] with 19824
+Merging ['11157'] with 11242
+Merging ['11299'] with 36597
+Merging ['8540'] with 6983
+Merging ['11615'] with 7327
+Merging ['11859'] with 7327
+Merging ['8419'] with 10298
+Merging ['10752'] with 273
+Merging ['9843'] with 13113
+Merging ['9394'] with 9790
+Merging ['11375'] with 47640
+Merging ['12224'] with 33972
+Merging ['12392'] with 12977
+Merging ['13569'] with 12980
+Merging ['13949'] with 5399
+Merging ['14541'] with 15670
+Merging ['13157'] with 13152
+Merging ['12979'] with 12769
+Merging ['31505', '119224'] with 93938
+Merging ['5509'] with 37681
+Merging ['6252'] with 29148
+Merging ['36965'] with 71124
+Merging ['13008'] with 2857
+Merging ['14221'] with 14506
+Merging ['14308'] with 11182
+Merging ['11493'] with 15656
+Merging ['14422'] with 14483
+Merging ['13888'] with 20755
+Merging ['26361'] with 42009
+Merging ['14825'] with 14740
+Merging ['5771'] with 3840
+Merging ['14980'] with 14932
+Merging ['19496'] with 80357
+Merging ['12644'] with 13985
+Merging ['13643'] with 19738
+Merging ['15608'] with 15603
+Merging ['10159'] with 11633
+Merging ['12066'] with 5700
+Merging ['16123'] with 1524
+Merging ['16020'] with 15967
+Merging ['14984'] with 18095
+Merging ['17626'] with 12159
+Merging ['16674'] with 17015
+Merging ['13671'] with 7219
+Merging ['13446'] with 14076
+Merging ['4760'] with 6325
+Merging ['16567'] with 16434
+Merging ['15878'] with 22131
+Merging ['16593'] with 16781
+Merging ['15317'] with 17433
+Merging ['17023'] with 16503
+Merging ['22536'] with 5188
+Merging ['19907', '65792'] with 99266
+Merging ['15389'] with 14954
+Merging ['6301'] with 3331
+Merging ['20353'] with 23808
+Merging ['17453'] with 12746
+Merging ['20563'] with 67031
+Merging ['17904'] with 15242
+Merging ['18011'] with 15170
+Merging ['17717'] with 16919
+Merging ['13368'] with 43554
+Merging ['18353'] with 21848
+Merging ['18422'] with 16181
+Merging ['18451'] with 21848
+Merging ['18642'] with 18929
+Merging ['18783'] with 18929
+Merging ['18628'] with 18622
+Merging ['19023'] with 20132
+Merging ['18770'] with 18738
+Merging ['53979'] with 136397
+Merging ['19281'] with 10215
+Merging ['8405'] with 15305
+Merging ['19498'] with 18641
+Merging ['18873'] with 18637
+Merging ['26153'] with 53791
+Merging ['18946'] with 18637
+Merging ['19760'] with 6325
+Merging ['19433'] with 21622
+Merging ['18653'] with 18929
+Merging ['12238'] with 23980
+Merging ['29838', '31883'] with 20036
+Merging ['37563', '38271'] with 29890
+Merging ['19588'] with 18968
+Merging ['18883'] with 18393
+Merging ['50053'] with 30529
+Merging ['19369'] with 17328
+Merging ['19706'] with 9295
+Merging ['19586'] with 18953
+Merging ['20099'] with 18598
+Merging ['20223'] with 19824
+Merging ['18955'] with 53791
+Merging ['19965'] with 19990
+Merging ['16878'] with 21072
+Merging ['19914'] with 19205
+Merging ['11992'] with 26756
+Merging ['16952'] with 16879
+Merging ['14779'] with 2066
+Merging ['20818'] with 16849
+Merging ['21514'] with 9355
+Merging ['20802'] with 17030
+Merging ['18098'] with 19581
+Merging ['12046'] with 23139
+Merging ['2849'] with 207939
+Merging ['19134'] with 2338
+Merging ['37204'] with 38430
+Merging ['10029'] with 6454
+Merging ['21276'] with 38430
+Merging ['33193'] with 5138
+Merging ['21146'] with 1524
+Merging ['20946'] with 52686
+Merging ['19413'] with 2821
+Merging ['20874'] with 16011
+Merging ['19784'] with 32417
+Merging ['10656'] with 52791
+Merging ['22297'] with 33192
+Merging ['14216'] with 5682
+Merging ['21310'] with 14654
+Merging ['15594'] with 27468
+Merging ['25683'] with 4417
+Merging ['21744'] with 21262
+Merging ['38024'] with 8613
+Merging ['16586'] with 11122
+Merging ['24792'] with 79715
+Merging ['22623'] with 5700
+Merging ['22414'] with 5682
+Merging ['23579'] with 35779
+Merging ['7395'] with 7091
+Merging ['8879'] with 18518
+Merging ['22872'] with 1576
+Merging ['22617'] with 20578
+Merging ['75718'] with 63656
+Merging ['19274'] with 6325
+Merging ['22582'] with 19771
+Merging ['24127'] with 22039
+Merging ['23277'] with 18080
+Merging ['26857'] with 44986
+Merging ['24155'] with 29835
+Merging ['21214'] with 19252
+Merging ['22754'] with 7091
+Merging ['23135'] with 26563
+Merging ['17647'] with 16280
+Merging ['11027'] with 19870
+Merging ['24080'] with 21437
+Merging ['22708'] with 6698
+Merging ['22225'] with 21262
+Merging ['24681'] with 35870
+Merging ['44942'] with 41676
+Merging ['25017'] with 24055
+Merging ['24977'] with 25634
+Merging ['25088'] with 25634
+Merging ['17743'] with 57143
+Merging ['26589'] with 20953
+Merging ['25398'] with 26481
+Merging ['25466'] with 24030
+Merging ['12396'] with 21240
+Merging ['26027'] with 14758
+Merging ['25743'] with 12144
+Merging ['25755'] with 24835
+Merging ['25242'] with 25162
+Merging ['25453'] with 15405
+Merging ['25875'] with 7224
+Merging ['27231'] with 26674
+Merging ['25812'] with 25900
+Merging ['25786'] with 28812
+Merging ['22914'] with 76855
+Merging ['22742'] with 6749
+Merging ['26280'] with 26204
+Merging ['26219'] with 26047
+Merging ['26515'] with 26415
+Merging ['40797'] with 208939
+Merging ['27581'] with 9876
+Merging ['26644'] with 26252
+Merging ['21464'] with 51995
+Merging ['25247'] with 25892
+Merging ['26748'] with 25892
+Merging ['23599'] with 42444
+Merging ['26855'] with 26683
+Merging ['18830'] with 136397
+Merging ['23278'] with 26625
+Merging ['72010'] with 73992
+Merging ['22540'] with 34826
+Merging ['27577'] with 37775
+Merging ['19149'] with 35151
+Merging ['27774'] with 3128
+Merging ['37226'] with 32537
+Merging ['29328'] with 37701
+Merging ['27537'] with 27121
+Merging ['27824'] with 27878
+Merging ['9348'] with 83389
+Merging ['27965'] with 27978
+Merging ['28454'] with 29909
+Merging ['27857'] with 29617
+Merging ['30853'] with 33070
+Merging ['25881'] with 25900
+Merging ['28294'] with 28354
+Merging ['2090'] with 37681
+Merging ['27219'] with 22884
+Merging ['6286'] with 84344
+Merging ['28934'] with 28750
+Merging ['28910'] with 26681
+Merging ['28801'] with 28750
+Merging ['28862'] with 25548
+Merging ['42738'] with 20644
+Merging ['20319'] with 16179
+Merging ['28872'] with 25548
+Merging ['14161'] with 78099
+Merging ['28855'] with 25548
+Merging ['32883'] with 74660
+Merging ['27232'] with 28417
+Merging ['29549'] with 29151
+Merging ['29359'] with 25548
+Merging ['75603'] with 111809
+Merging ['14775'] with 42009
+Merging ['30893'] with 29452
+Merging ['30229'] with 27320
+Merging ['23581'] with 41738
+Merging ['30209'] with 10104
+Merging ['30519'] with 26127
+Merging ['30244'] with 26783
+Merging ['15431'] with 10941
+Merging ['31025'] with 30971
+Merging ['26270'] with 19036
+Merging ['31084'] with 27136
+Merging ['31877'] with 31891
+Merging ['36184'] with 75828
+Merging ['31133'] with 29456
+Merging ['31510'] with 25337
+Merging ['18425'] with 43554
+Merging ['21650'] with 2821
+Merging ['31006'] with 19836
+Merging ['24006'] with 22328
+Merging ['31607'] with 30971
+Merging ['31363'] with 83389
+Merging ['27522'] with 32982
+Merging ['31051'] with 31700
+Merging ['6015'] with 43967
+Merging ['17871'] with 93129
+Merging ['24762'] with 36698
+Merging ['32407'] with 30758
+Merging ['32507'] with 10712
+Merging ['32356'] with 32633
+Merging ['31504'] with 21904
+Merging ['8583'] with 10017
+Merging ['32505'] with 36032
+Merging ['32669'] with 32610
+Merging ['33094'] with 33030
+Merging ['33241'] with 71765
+Merging ['33391'] with 24448
+Merging ['33268'] with 32858
+Merging ['14043'] with 86785
+Merging ['33481'] with 21437
+Merging ['13668'] with 93938
+Merging ['31869'] with 30468
+Merging ['33652'] with 28343
+Merging ['29023'] with 122945
+Merging ['25360'] with 29860
+Merging ['34100'] with 34181
+Merging ['32355'] with 63782
+Merging ['34336'] with 34142
+Merging ['34509'] with 32553
+Merging ['23255'] with 19771
+Merging ['41908'] with 42035
+Merging ['37714'] with 201666
+Merging ['36647'] with 34270
+Merging ['35311'] with 35307
+Merging ['34959'] with 36216
+Merging ['22903'] with 124522
+Merging ['35349'] with 124522
+Merging ['35021'] with 52347
+Merging ['36109'] with 36698
+Merging ['19406'] with 54207
+Merging ['35946'] with 31941
+Merging ['35309'] with 30529
+Merging ['36118'] with 34940
+Merging ['28669'] with 3970
+Merging ['36182'] with 32204
+Merging ['36251'] with 34297
+Merging ['35066'] with 35688
+Merging ['26268'] with 1591
+Merging ['35768'] with 166483
+Merging ['33306'] with 9478
+Merging ['36966'] with 37928
+Merging ['56212'] with 92601
+Merging ['36281'] with 32447
+Merging ['27145'] with 27844
+Merging ['76003'] with 84919
+Merging ['23561'] with 23600
+Merging ['37364'] with 78099
+Merging ['37413'] with 35776
+Merging ['13530'] with 36943
+Merging ['37496'] with 154109
+Merging ['37494'] with 6172
+Merging ['34857'] with 37197
+Merging ['36148'] with 36216
+Merging ['48242'] with 44984
+Merging ['37804'] with 36854
+Merging ['37800'] with 36698
+Merging ['48572'] with 36386
+Merging ['37240'] with 37274
+Merging ['37870'] with 62854
+Merging ['22715'] with 2861
+Merging ['24613'] with 198508
+Merging ['39187'] with 37696
+Merging ['38305'] with 67219
+Merging ['39162'] with 30365
+Merging ['34596'] with 33545
+Merging ['38969'] with 38951
+Merging ['43112'] with 32413
+Merging ['10733'] with 39188
+Merging ['42908'] with 52864
+Merging ['15840'] with 35870
+Merging ['15119'] with 14056
+Merging ['39869'] with 102334
+Merging ['39804'] with 39907
+Merging ['39714'] with 43396
+Merging ['39807'] with 18338
+Merging ['40567'] with 41325
+Merging ['22074'] with 23178
+Merging ['40909'] with 29964
+Merging ['40655'] with 30439
+Merging ['39409'] with 53491
+Merging ['40244'] with 156766
+Merging ['41083'] with 37394
+Merging ['13870'] with 6823
+Merging ['42158'] with 42175
+Merging ['30315'] with 45240
+Merging ['41485'] with 52393
+Merging ['42509'] with 75070
+Merging ['41665'] with 78099
+Merging ['41225'] with 98569
+Merging ['41190'] with 22976
+Merging ['41808'] with 41755
+Merging ['41885'] with 41583
+Merging ['41792'] with 98569
+Merging ['42188'] with 40020
+Merging ['42213'] with 40950
+Merging ['42245'] with 42465
+Merging ['42340'] with 18338
+Merging ['42435'] with 42184
+Merging ['35871'] with 35838
+Merging ['42397'] with 42202
+Merging ['42200'] with 40884
+Merging ['42271'] with 41676
+Merging ['42878'] with 42511
+Merging ['34905'] with 38085
+Merging ['40740'] with 44915
+Merging ['35949'] with 8519
+Merging ['40214'] with 44081
+Merging ['30184'] with 67836
+Merging ['42890'] with 42225
+Merging ['43490'] with 42929
+Merging ['43716'] with 43592
+Merging ['40528'] with 24319
+Merging ['56409'] with 133912
+Merging ['42060'] with 35273
+Merging ['44000'] with 53617
+Merging ['41052'] with 53491
+Merging ['43151'] with 46458
+Merging ['41192'] with 18393
+Merging ['43572'] with 42225
+Merging ['42939'] with 39095
+Merging ['44851'] with 43662
+Merging ['43305'] with 8839
+Merging ['44881'] with 52686
+Merging ['44706'] with 193318
+Merging ['5870'] with 133146
+Merging ['23319'] with 36556
+Merging ['44691'] with 53791
+Merging ['37423'] with 36548
+Merging ['42469'] with 72957
+Merging ['31171'] with 25382
+Merging ['45330'] with 45306
+Merging ['45388'] with 15886
+Merging ['44245'] with 99266
+Merging ['41259'] with 35357
+Merging ['38871'] with 30476
+Merging ['45851'] with 52196
+Merging ['35055'] with 116423
+Merging ['45681'] with 45682
+Merging ['43395'] with 23765
+Merging ['37444'] with 36943
+Merging ['44687'] with 43429
+Merging ['46284'] with 46272
+Merging ['45998'] with 47255
+Merging ['36685'] with 41929
+Merging ['60943', '34168'] with 163769
+Merging ['46829'] with 46468
+Merging ['52468'] with 54748
+Merging ['19479'] with 34221
+Merging ['47182'] with 47525
+Merging ['51956'] with 42632
+Merging ['38833'] with 54968
+Merging ['47290'] with 50616
+Merging ['23193'] with 75086
+Merging ['53702'] with 63514
+Merging ['47562'] with 58705
+Merging ['81471'] with 154111
+Merging ['47197'] with 34221
+Merging ['54822'] with 102826
+Merging ['47896'] with 66331
+Merging ['38764'] with 78099
+Merging ['37961'] with 82296
+Merging ['49032'] with 32205
+Merging ['49372'] with 47927
+Merging ['49460'] with 44196
+Merging ['49517'] with 47927
+Merging ['49342'] with 49265
+Merging ['49112'] with 50992
+Merging ['42102'] with 41283
+Merging ['47467'] with 6579
+Merging ['88017'] with 154100
+Merging ['50761', '50762'] with 64800
+Merging ['48882'] with 40754
+Merging ['50289'] with 50918
+Merging ['50313'] with 50312
+Merging ['20042'] with 50836
+Merging ['50780'] with 51516
+Merging ['50849'] with 47396
+Merging ['49622'] with 50992
+Merging ['50326'] with 54012
+Merging ['51526'] with 51473
+Merging ['51497'] with 51529
+Merging ['51614'] with 51529
+Merging ['178289'] with 64911
+Merging ['51706'] with 43975
+Merging ['71125'] with 46207
+Merging ['52370'] with 52381
+Merging ['46701'] with 35393
+Merging ['15452'] with 71013
+Merging ['52098'] with 37942
+Merging ['49795'] with 63546
+Merging ['44487'] with 44735
+Merging ['50922'] with 54946
+Merging ['52309'] with 52581
+Merging ['51191'] with 53039
+Merging ['46158'] with 69795
+Merging ['32128'] with 19771
+Merging ['52606'] with 56829
+Merging ['52180'] with 44152
+Merging ['53048'] with 51075
+Merging ['58196'] with 67600
+Merging ['52933'] with 49041
+Merging ['54302'] with 56655
+Merging ['17296'] with 45831
+Merging ['51657'] with 105665
+Merging ['53567'] with 89178
+Merging ['40439'] with 67328
+Merging ['29763'] with 8869
+Merging ['53633'] with 38948
+Merging ['53717'] with 48501
+Merging ['53033'] with 22969
+Merging ['57057'] with 31563
+Merging ['54254'] with 53612
+Merging ['54422'] with 9355
+Merging ['54472'] with 12898
+Merging ['54852'] with 55165
+Merging ['54531'] with 54639
+Merging ['54441'] with 54447
+Merging ['55485'] with 34819
+Merging ['49594'] with 107682
+Merging ['55731'] with 55651
+Merging ['55634'] with 55581
+Merging ['55397'] with 55657
+Merging ['55688'] with 55951
+Merging ['54956'] with 54460
+Merging ['52115'] with 49412
+Merging ['55889'] with 54264
+Merging ['55925'] with 61719
+Merging ['55737'] with 55951
+Merging ['56219'] with 56198
+Merging ['44653'] with 50989
+Merging ['56037'] with 64616
+Merging ['120288'] with 202462
+Merging ['56487'] with 56390
+Merging ['43097'] with 6929
+Merging ['56467'] with 56365
+Merging ['56150'] with 55511
+Merging ['56777'] with 56390
+Merging ['57280'] with 59151
+Merging ['57244'] with 56524
+Merging ['57344', '71677'] with 86846
+Merging ['57431'] with 57174
+Merging ['57386'] with 57174
+Merging ['57495'] with 72319
+Merging ['15938'] with 114089
+Merging ['32670'] with 164695
+Merging ['58076'] with 6698
+Merging ['47702'] with 47939
+Merging ['57985'] with 57895
+Merging ['55331'] with 46835
+Merging ['69478'] with 82257
+Merging ['54953'] with 21968
+Merging ['57766'] with 52378
+Merging ['99589'] with 98915
+Merging ['50079'] with 76849
+Merging ['49332'] with 82296
+Merging ['81558'] with 85075
+Merging ['74076'] with 47184
+Merging ['49659'] with 6437
+Merging ['59066'] with 53352
+Merging ['59140'] with 2713
+Merging ['54498'] with 73825
+Merging ['59461'] with 59727
+Merging ['59443'] with 38855
+Merging ['45087'] with 35040
+Merging ['169991'] with 84351
+Merging ['60019'] with 60005
+Merging ['127169'] with 220109
+Merging ['41134'] with 39813
+Merging ['90029'] with 70032
+Merging ['60268'] with 57272
+Merging ['56361'] with 60970
+Merging ['60494'] with 55249
+Merging ['57801'] with 61425
+Merging ['60330'] with 62322
+Merging ['74875'] with 74876
+Merging ['64788'] with 73178
+Merging ['61405'] with 57763
+Merging ['52834'] with 6930
+Merging ['47065'] with 193318
+Merging ['61361'] with 54072
+Merging ['58646'] with 153932
+Merging ['58948'] with 62046
+Merging ['61646'] with 61650
+Merging ['27460'] with 136397
+Merging ['61128'] with 61239
+Merging ['61746'] with 61239
+Merging ['61897'] with 247332
+Merging ['61909'] with 61922
+Merging ['52963'] with 61869
+Merging ['63278'] with 21904
+Merging ['62552'] with 63105
+Merging ['62533'] with 62267
+Merging ['68242'] with 55295
+Merging ['62636'] with 55656
+Merging ['50591'] with 104129
+Merging ['63000'] with 63105
+Merging ['64165'] with 82697
+Merging ['63215'] with 63874
+Merging ['61668'] with 62995
+Merging ['25594'] with 14955
+Merging ['68150'] with 82146
+Merging ['63482'] with 63198
+Merging ['26071'] with 90659
+Merging ['63600'] with 90659
+Merging ['56522'] with 22698
+Merging ['60001'] with 69668
+Merging ['63018'] with 56642
+Merging ['63919'] with 2861
+Merging ['65138'] with 145557
+Merging ['63093'] with 31563
+Merging ['63633'] with 57656
+Merging ['64138'] with 93606
+Merging ['63836'] with 67428
+Merging ['64273'] with 8886
+Merging ['63613'] with 87263
+Merging ['65975'] with 70077
+Merging ['61616'] with 56508
+Merging ['64597'] with 64518
+Merging ['66152'] with 65870
+Merging ['17102'] with 131068
+Merging ['35824'] with 78099
+Merging ['63544'] with 66930
+Merging ['30759'] with 36958
+Merging ['27213'] with 49724
+Merging ['52869'] with 40333
+Merging ['60524'] with 45206
+Merging ['60126'] with 63579
+Merging ['62114'] with 63253
+Merging ['64660'] with 49686
+Merging ['32222'] with 33452
+Merging ['55352'] with 107142
+Merging ['63115'] with 78503
+Merging ['64861'] with 66815
+Merging ['64884'] with 69612
+Merging ['65924'] with 66228
+Merging ['66223'] with 65697
+Merging ['68569'] with 49548
+Merging ['31729'] with 78099
+Merging ['33060'] with 33148
+Merging ['66411'] with 66410
+Merging ['77494'] with 79698
+Merging ['66464'] with 65697
+Merging ['67660'] with 68096
+Merging ['66833'] with 66922
+Merging ['60508'] with 64182
+Merging ['64324'] with 41189
+Merging ['34510'] with 91666
+Merging ['66724'] with 67183
+Merging ['67038'] with 21262
+Merging ['60469'] with 89665
+Merging ['81281'] with 175134
+Merging ['67226'] with 66439
+Merging ['67310'] with 60037
+Merging ['63825'] with 45623
+Merging ['66642'] with 67183
+Merging ['67611'] with 66182
+Merging ['63396'] with 78099
+Merging ['67105'] with 71850
+Merging ['66288'] with 68026
+Merging ['66352'] with 89947
+Merging ['67952'] with 68026
+Merging ['65797'] with 64749
+Merging ['68106'] with 68013
+Merging ['51975'] with 45469
+Merging ['69545'] with 66836
+Merging ['68462'] with 67702
+Merging ['68637', '68374'] with 64134
+Merging ['68542'] with 30881
+Merging ['40472'] with 36643
+Merging ['68716'] with 61866
+Merging ['57752'] with 67425
+Merging ['68240'] with 66836
+Merging ['67627'] with 82483
+Merging ['63338'] with 61139
+Merging ['69125'] with 57298
+Merging ['58507'] with 69524
+Merging ['40282'] with 21414
+Merging ['69460'] with 59764
+Merging ['56167'] with 7022
+Merging ['69725'] with 4417
+Merging ['69562'] with 70993
+Merging ['50361'] with 19229
+Merging ['106701'] with 136668
+Merging ['69138'] with 68723
+Merging ['70176'] with 71003
+Merging ['70105'] with 71854
+Merging ['70426'] with 28722
+Merging ['60858'] with 65438
+Merging ['69575'] with 70788
+Merging ['70643'] with 70280
+Merging ['70013'] with 24152
+Merging ['70615'] with 67395
+Merging ['70378'] with 146025
+Merging ['70879'] with 98327
+Merging ['64987'] with 81830
+Merging ['70907'] with 74925
+Merging ['70853'] with 71003
+Merging ['70977'] with 70454
+Merging ['69204'] with 156792
+Merging ['45333'] with 23889
+Merging ['71635'] with 71636
+Merging ['71645'] with 70650
+Merging ['72295', '69106'] with 76456
+Merging ['39661'] with 71765
+Merging ['91446'] with 94721
+Merging ['87461'] with 87302
+Merging ['71444'] with 65306
+Merging ['72112'] with 68584
+Merging ['64431'] with 91496
+Merging ['73673'] with 169056
+Merging ['69801'] with 26406
+Merging ['72446'] with 45708
+Merging ['72758'] with 15232
+Merging ['73194'] with 65470
+Merging ['73543'] with 53970
+Merging ['73545'] with 53970
+Merging ['77513'] with 68423
+Merging ['68690'] with 71374
+Merging ['73578'] with 73048
+Merging ['82463'] with 78166
+Merging ['21587'] with 52894
+Merging ['75003'] with 89378
+Merging ['67808'] with 66798
+Merging ['47995'] with 2897
+Merging ['74136'] with 74949
+Merging ['74377'] with 74624
+Merging ['74200'] with 60803
+Merging ['74679'] with 73460
+Merging ['78502'] with 82679
+Merging ['70322'] with 63571
+Merging ['142655'] with 151295
+Merging ['75178'] with 74624
+Merging ['62814'] with 73769
+Merging ['75437'] with 65775
+Merging ['72210'] with 78551
+Merging ['72896'] with 61234
+Merging ['74704'] with 68938
+Merging ['74524'] with 1654
+Merging ['70711'] with 22905
+Merging ['54617'] with 47184
+Merging ['71649'] with 52477
+Merging ['56527'] with 80401
+Merging ['75153'] with 86579
+Merging ['76830'] with 90508
+Merging ['82710'] with 71354
+Merging ['77087'] with 78509
+Merging ['173122'] with 184925
+Merging ['46696'] with 8112
+Merging ['42086'] with 201878
+Merging ['28903'] with 15133
+Merging ['77895'] with 77852
+Merging ['15928'] with 10941
+Merging ['78374'] with 78356
+Merging ['78851'] with 61528
+Merging ['77962'] with 53641
+Merging ['45451'] with 46774
+Merging ['78700', '16347'] with 34095
+Merging ['58806'] with 114089
+Merging ['79687'] with 81618
+Merging ['78290'] with 102785
+Merging ['76912'] with 74796
+Merging ['91502'] with 91409
+Merging ['79625'] with 78491
+Merging ['77069'] with 102270
+Merging ['33890'] with 41004
+Merging ['67662'] with 58557
+Merging ['108110'] with 110998
+Merging ['80012'] with 80014
+Merging ['81032'] with 77791
+Merging ['80240'] with 21926
+Merging ['79923'] with 125114
+Merging ['70607'] with 68003
+Merging ['79783'] with 87263
+Merging ['64116'] with 67500
+Merging ['35921'] with 22771
+Merging ['80886'] with 80625
+Merging ['80931'] with 80918
+Merging ['81074'] with 81085
+Merging ['79691'] with 77894
+Merging ['88578'] with 159066
+Merging ['91967'] with 92426
+Merging ['58699'] with 48003
+Merging ['97913'] with 100207
+Merging ['82082'] with 78295
+Merging ['68627'] with 42632
+Merging ['77267'] with 99527
+Merging ['82359'] with 56612
+Merging ['82425'] with 65385
+Merging ['75074'] with 78358
+Merging ['30204'] with 111429
+Merging ['201434'] with 185214
+Merging ['75557'] with 151295
+Merging ['82991'] with 45095
+Merging ['83680'] with 57897
+Merging ['7555'] with 78081
+Merging ['148236'] with 145146
+Merging ['46385'] with 16179
+Merging ['84323'] with 82951
+Merging ['82809'] with 83055
+Merging ['82275'] with 89739
+Merging ['26224'] with 36959
+Merging ['84656'] with 84623
+Merging ['83209'] with 196289
+Merging ['85841'] with 103601
+Merging ['88281'] with 53390
+Merging ['85352'] with 85511
+Merging ['83121'] with 81418
+Merging ['85668'] with 97745
+Merging ['139923'] with 182566
+Merging ['59502'] with 140520
+Merging ['83460'] with 87335
+Merging ['66452'] with 84770
+Merging ['86418'] with 89100
+Merging ['122051'] with 203252
+Merging ['173795'] with 122391
+Merging ['82303'] with 78358
+Merging ['84988'] with 252996
+Merging ['86518'] with 89914
+Merging ['85992'] with 84730
+Merging ['57248'] with 206169
+Merging ['88023'] with 148010
+Merging ['87513'] with 97902
+Merging ['87524'] with 87896
+Merging ['46986'] with 178906
+Merging ['76503'] with 106207
+Merging ['86544'] with 86443
+Merging ['82795'] with 92420
+Merging ['75321'] with 73603
+Merging ['88119'] with 89246
+Merging ['38105'] with 48231
+Merging ['67141'] with 53451
+Merging ['92603'] with 98340
+Merging ['88673'] with 142314
+Merging ['100135'] with 122820
+Merging ['74162'] with 98087
+Merging ['88675'] with 160861
+Merging ['79868'] with 58557
+Merging ['180901'] with 204155
+Merging ['83651'] with 40597
+Merging ['89558'] with 89504
+Merging ['89579'] with 89564
+Merging ['89877', '89375'] with 95150
+Merging ['89148'] with 82169
+Merging ['89580'] with 78385
+Merging ['88349'] with 98340
+Merging ['80291'] with 111887
+Merging ['87848'] with 89393
+Merging ['76417'] with 143757
+Merging ['86504'] with 84242
+Merging ['86287'] with 83964
+Merging ['85369'] with 150009
+Merging ['91564'] with 91294
+Merging ['91057'] with 89393
+Merging ['101245'] with 101744
+Merging ['86042'] with 93520
+Merging ['89975'] with 99378
+Merging ['91780'] with 90414
+Merging ['58396'] with 82257
+Merging ['81918'] with 155015
+Merging ['92443'] with 98795
+Merging ['91712'] with 101744
+Merging ['92196'] with 88181
+Merging ['92321'] with 91327
+Merging ['93065'] with 26848
+Merging ['77113'] with 182537
+Merging ['93227'] with 78298
+Merging ['90194'] with 69053
+Merging ['93617'] with 82261
+Merging ['91853'] with 142313
+Merging ['92771'] with 86329
+Merging ['94024'] with 49412
+Merging ['91217'] with 129829
+Merging ['60540'] with 69289
+Merging ['94222'] with 85308
+Merging ['94354'] with 94467
+Merging ['94929'] with 94391
+Merging ['89498'] with 94766
+Merging ['95156'] with 94950
+Merging ['93955'] with 89599
+Merging ['95317'] with 91965
+Merging ['95266', '87766'] with 149884
+Merging ['95975', '95976'] with 95977
+Merging ['91004'] with 16552
+Merging ['96051'] with 5188
+Merging ['96094'] with 95394
+Merging ['84065'] with 107272
+Merging ['9230'] with 4433
+Merging ['33832'] with 145736
+Merging ['90497'] with 2537
+Merging ['96409'] with 84767
+Merging ['108368'] with 73979
+Merging ['93280'] with 99384
+Merging ['94942'] with 99017
+Merging ['109972'] with 122619
+Merging ['98593'] with 88824
+Merging ['84777'] with 43277
+Merging ['93061'] with 70417
+Merging ['97959'] with 150559
+Merging ['44438'] with 103374
+Merging ['98061'] with 36389
+Merging ['98100'] with 97434
+Merging ['43172'] with 64665
+Merging ['94087'] with 102239
+Merging ['99026'] with 83915
+Merging ['91392'] with 102488
+Merging ['74217'] with 57580
+Merging ['99245'] with 125656
+Merging ['99672'] with 99644
+Merging ['140257'] with 141395
+Merging ['131575'] with 212389
+Merging ['99767'] with 99547
+Merging ['100996'] with 67652
+Merging ['99571'] with 99597
+Merging ['100534'] with 105283
+Merging ['103066'] with 93290
+Merging ['99630'] with 47099
+Merging ['37845'] with 39640
+Merging ['100700'] with 128452
+Merging ['101150'] with 101224
+Merging ['237426'] with 234432
+Merging ['100615'] with 111106
+Merging ['104222'] with 103601
+Merging ['90021'] with 80742
+Merging ['97515'] with 129755
+Merging ['102155'] with 102173
+Merging ['96234'] with 42593
+Merging ['102506'] with 102395
+Merging ['102608'] with 102615
+Merging ['41392'] with 128255
+Merging ['102656'] with 100069
+Merging ['95652'] with 201980
+Merging ['93073'] with 252996
+Merging ['102718'] with 90419
+Merging ['93032'] with 92148
+Merging ['115809'] with 66260
+Merging ['46664'] with 44420
+Merging ['99267'] with 103369
+Merging ['103366'] with 102487
+Merging ['103665'] with 236558
+Merging ['145448'] with 21417
+Merging ['101571'] with 147061
+Merging ['103769'] with 96104
+Merging ['50492'] with 114615
+Merging ['72503'] with 42097
+Merging ['104809'] with 104825
+Merging ['104958'] with 104503
+Merging ['104982'] with 98147
+Merging ['84179'] with 15941
+Merging ['83837'] with 82166
+Merging ['89924'] with 105473
+Merging ['99411'] with 139614
+Merging ['80447'] with 51003
+Merging ['103738'] with 96108
+Merging ['105684'] with 105712
+Merging ['115220'] with 189492
+Merging ['124542'] with 256910
+Merging ['106008'] with 43277
+Merging ['87505'] with 19945
+Merging ['121424'] with 89428
+Merging ['86873'] with 71987
+Merging ['100705'] with 125656
+Merging ['92595'] with 81425
+Merging ['106255'] with 83992
+Merging ['106818'] with 106976
+Merging ['106852'] with 162605
+Merging ['143088'] with 242802
+Merging ['119203'] with 73957
+Merging ['107107'] with 67220
+Merging ['107396'] with 50517
+Merging ['97430'] with 63366
+Merging ['107636'] with 107005
+Merging ['65310'] with 8112
+Merging ['107674'] with 55797
+Merging ['106234'] with 49098
+Merging ['108089'] with 107735
+Merging ['106781'] with 94608
+Merging ['104157'] with 182360
+Merging ['108321'] with 128452
+Merging ['106338'] with 108595
+Merging ['108675'] with 105592
+Merging ['108550'] with 97145
+Merging ['65787'] with 75285
+Merging ['101816'] with 148436
+Merging ['110012'] with 8886
+Merging ['100733'] with 80833
+Merging ['75519'] with 40912
+Merging ['166834', '166831'] with 165948
+Merging ['122620'] with 69620
+Merging ['72575'] with 47136
+Merging ['67705'] with 5188
+Merging ['186618'] with 256910
+Merging ['114167'] with 105090
+Merging ['115012'] with 126508
+Merging ['107831'] with 99497
+Merging ['108124'] with 166333
+Merging ['112260'] with 67562
+Merging ['112450'] with 67328
+Merging ['105763'] with 102204
+Merging ['104471'] with 103410
+Merging ['111327'] with 51870
+Merging ['60289'] with 4922
+Merging ['36163'] with 37680
+Merging ['106133'] with 106568
+Merging ['139328'] with 154571
+Merging ['113826'] with 114139
+Merging ['114336'] with 106058
+Merging ['102024'] with 135565
+Merging ['114525'] with 114498
+Merging ['114869'] with 105090
+Merging ['102041'] with 96685
+Merging ['116470'] with 123633
+Merging ['88570'] with 49412
+Merging ['114663'] with 110135
+Merging ['128455'] with 122639
+Merging ['110904'] with 115167
+Merging ['116248'] with 131017
+Merging ['182210'] with 194926
+Merging ['117346'] with 118460
+Merging ['37481'] with 12673
+Merging ['106678'] with 148759
+Merging ['103351'] with 96378
+Merging ['116897'] with 116304
+Merging ['117049'] with 2564
+Merging ['117140'] with 116699
+Merging ['117369'] with 124530
+Merging ['117786'] with 117687
+Merging ['117473'] with 117261
+Merging ['118893'] with 117928
+Merging ['118734'] with 118737
+Merging ['119685'] with 119927
+Merging ['119285'] with 119056
+Merging ['115647'] with 183905
+Merging ['116252'] with 194926
+Merging ['76435'] with 27079
+Merging ['109069'] with 134227
+Merging ['121004'] with 121003
+Merging ['121078'] with 140516
+Merging ['116656'] with 163444
+Merging ['121189'] with 121564
+Merging ['119741'] with 112838
+Merging ['121879'] with 121109
+Merging ['121867'] with 121504
+Merging ['108558'] with 40078
+Merging ['122874'] with 121444
+Merging ['120455'] with 106649
+Merging ['122549'] with 121939
+Merging ['116349'] with 121127
+Merging ['151529'] with 173572
+Merging ['119079'] with 117928
+Merging ['122411'] with 123087
+Merging ['102147'] with 121351
+Merging ['123056'] with 101575
+Merging ['123027'] with 117928
+Merging ['131891'] with 67220
+Merging ['154077'] with 200089
+Merging ['123194'] with 123192
+Merging ['186192'] with 220928
+Merging ['111270'] with 102780
+Merging ['124149'] with 124150
+Merging ['124267'] with 135444
+Merging ['12214'] with 2382
+Merging ['125180'] with 125123
+Merging ['121131'] with 117984
+Merging ['124578'] with 140222
+Merging ['125611'] with 75933
+Merging ['32322'] with 93129
+Merging ['12730'] with 12742
+Merging ['124787'] with 146713
+Merging ['124623'] with 71587
+Merging ['126719'] with 121305
+Merging ['113038'] with 150031
+Merging ['127248'] with 127545
+Merging ['127436'] with 132255
+Merging ['187263'] with 251611
+Merging ['127474'] with 139818
+Merging ['97641'] with 138021
+Merging ['121483'] with 154571
+Merging ['126150'] with 138474
+Merging ['91689'] with 57762
+Merging ['129628'] with 117152
+Merging ['129677'] with 129239
+Merging ['126176'] with 134227
+Merging ['116112'] with 122639
+Merging ['123161'] with 136412
+Merging ['128772'] with 130113
+Merging ['115302'] with 139769
+Merging ['115765'] with 102521
+Merging ['131013'] with 90239
+Merging ['96651'] with 172374
+Merging ['129765'] with 65731
+Merging ['131469'] with 135565
+Merging ['115327'] with 128446
+Merging ['132184'] with 132020
+Merging ['131888'] with 131397
+Merging ['126905'] with 116749
+Merging ['132710'] with 87299
+Merging ['132787'] with 126472
+Merging ['132012'] with 115918
+Merging ['133398'] with 85699
+Merging ['133870'] with 211926
+Merging ['133348'] with 129168
+Merging ['133826'] with 131807
+Merging ['124264'] with 134227
+Merging ['133548'] with 256543
+Merging ['132491'] with 131180
+Merging ['50257'] with 135381
+Merging ['87470'] with 6134
+Merging ['130551'] with 127303
+Merging ['134850'] with 135132
+Merging ['190606'] with 72556
+Merging ['129490'] with 92250
+Merging ['135831'] with 136074
+Merging ['136242'] with 142551
+Merging ['136957'] with 136102
+Merging ['126918'] with 238222
+Merging ['136907'] with 132029
+Merging ['136291'] with 134690
+Merging ['137191'] with 151808
+Merging ['136952'] with 136954
+Merging ['137448'] with 137444
+Merging ['137841'] with 106448
+Merging ['128187'] with 128556
+Merging ['137530'] with 60273
+Merging ['100423'] with 122639
+Merging ['142328'] with 144023
+Merging ['119278'] with 154100
+Merging ['139266'] with 154100
+Merging ['108350'] with 101524
+Merging ['139708'] with 45423
+Merging ['134840'] with 141395
+Merging ['139892'] with 139250
+Merging ['136592'] with 151996
+Merging ['139969'] with 122493
+Merging ['135968'] with 140488
+Merging ['115191'] with 103350
+Merging ['137057'] with 157059
+Merging ['128605'] with 176471
+Merging ['103094'] with 25349
+Merging ['140992'] with 117020
+Merging ['136264'] with 139711
+Merging ['132073'] with 175714
+Merging ['106770'] with 111778
+Merging ['131241'] with 128601
+Merging ['143004'] with 68734
+Merging ['138020'] with 98661
+Merging ['140550'] with 23008
+Merging ['115104'] with 144777
+Merging ['143700'] with 143584
+Merging ['158819'] with 139254
+Merging ['140994'] with 119964
+Merging ['134684'] with 171075
+Merging ['144543'] with 147080
+Merging ['144363'] with 142892
+Merging ['153485'] with 92250
+Merging ['14497'] with 9100
+Merging ['144935'] with 144724
+Merging ['144953'] with 110163
+Merging ['144968'] with 144225
+Merging ['145490'] with 145284
+Merging ['112579'] with 102204
+Merging ['145334'] with 183756
+Merging ['118932'] with 171289
+Merging ['145819'] with 196834
+Merging ['143177'] with 98661
+Merging ['146538'] with 26095
+Merging ['154826'] with 132889
+Merging ['138137'] with 13221
+Merging ['140473'] with 132450
+Merging ['149995'] with 150412
+Merging ['147200'] with 149106
+Merging ['182179'] with 156168
+Merging ['148779'] with 148777
+Merging ['148341'] with 148951
+Merging ['148358'] with 148006
+Merging ['128422'] with 143026
+Merging ['149647'] with 148706
+Merging ['148249'] with 140561
+Merging ['149353'] with 149160
+Merging ['149809'] with 140561
+Merging ['149948'] with 92250
+Merging ['146291'] with 142204
+Merging ['112405'] with 199536
+Merging ['150123'] with 136676
+Merging ['150144'] with 175733
+Merging ['130245'] with 98661
+Merging ['96984'] with 168088
+Merging ['155819'] with 21926
+Merging ['149832'] with 163974
+Merging ['150324'] with 104597
+Merging ['150672'] with 127728
+Merging ['150738'] with 123876
+Merging ['92207'] with 69374
+Merging ['142538'] with 122322
+Merging ['150941'] with 154544
+Merging ['151251'] with 150994
+Merging ['152878'] with 152745
+Merging ['150753'] with 161025
+Merging ['151980'] with 71374
+Merging ['151912'] with 102521
+Merging ['162220'] with 150782
+Merging ['154895'] with 155712
+Merging ['138279'] with 179486
+Merging ['141745'] with 132326
+Merging ['152702'] with 142880
+Merging ['151364'] with 156352
+Merging ['151987'] with 147999
+Merging ['152972'] with 162598
+Merging ['138443'] with 112433
+Merging ['151447'] with 144499
+Merging ['154219'] with 104474
+Merging ['75573'] with 65317
+Merging ['152402'] with 157798
+Merging ['153264'] with 250142
+Merging ['116939'] with 157993
+Merging ['150334'] with 142965
+Merging ['103818'] with 200743
+Merging ['155629'] with 103834
+Merging ['154185'] with 149404
+Merging ['155947'] with 149934
+Merging ['26822'] with 67328
+Merging ['55016'] with 193046
+Merging ['156264'] with 256543
+Merging ['156447'] with 153874
+Merging ['157011'] with 156536
+Merging ['128864'] with 87215
+Merging ['156786'] with 71511
+Merging ['138285'] with 160870
+Merging ['139577'] with 148291
+Merging ['157885', '173994'] with 163601
+Merging ['120941'] with 141234
+Merging ['157159'] with 151612
+Merging ['152510'] with 145844
+Merging ['156888'] with 142815
+Merging ['190819'] with 212389
+Merging ['157706'] with 158299
+Merging ['155278'] with 195514
+Merging ['157724'] with 157348
+Merging ['158585'] with 157816
+Merging ['158082'] with 160245
+Merging ['136486'] with 142965
+Merging ['161631'] with 162621
+Merging ['80039'] with 151811
+Merging ['163761'] with 35779
+Merging ['158640'] with 161565
+Merging ['158915'] with 213305
+Merging ['157465'] with 123749
+Merging ['157537'] with 170222
+Merging ['159841'] with 154429
+Merging ['159840'] with 164623
+Merging ['159999'] with 150782
+Merging ['201665'] with 142965
+Merging ['75339'] with 15941
+Merging ['160370'] with 144238
+Merging ['160452'] with 154097
+Merging ['160621'] with 160268
+Merging ['152024'] with 151845
+Merging ['160958'] with 106169
+Merging ['154592'] with 207064
+Merging ['161370'] with 161501
+Merging ['161532'] with 128106
+Merging ['159315'] with 159186
+Merging ['150194'] with 159169
+Merging ['164467'] with 147518
+Merging ['109199'] with 184528
+Merging ['161994'] with 161533
+Merging ['166514'] with 242797
+Merging ['160719'] with 175636
+Merging ['164064'] with 122945
+Merging ['175842'] with 198390
+Merging ['161788'] with 245756
+Merging ['170582'] with 150385
+Merging ['153375'] with 30995
+Merging ['183277'] with 147072
+Merging ['165392'] with 143011
+Merging ['165402', '164609'] with 155938
+Merging ['165337'] with 145544
+Merging ['165573'] with 163816
+Merging ['163702'] with 142825
+Merging ['124545'] with 187200
+Merging ['166042'] with 165500
+Merging ['166241'] with 160500
+Merging ['26500'] with 112921
+Merging ['166743'] with 166752
+Merging ['166625'] with 166651
+Merging ['167075'] with 169922
+Merging ['167058'] with 167054
+Merging ['167339'] with 167697
+Merging ['165253'] with 147072
+Merging ['164156'] with 157479
+Merging ['167960'] with 180994
+Merging ['162829'] with 164606
+Merging ['168494'] with 167784
+Merging ['189856', '150630'] with 144458
+Merging ['170572'] with 179871
+Merging ['123464'] with 150261
+Merging ['160739'] with 188304
+Merging ['170770'] with 170368
+Merging ['170931'] with 88382
+Merging ['107464'] with 64911
+Merging ['171512'] with 162039
+Merging ['169090'] with 147846
+Merging ['184915'] with 171463
+Merging ['173270'] with 171537
+Merging ['169881'] with 167743
+Merging ['130573'] with 191077
+Merging ['174442'] with 174441
+Merging ['171698'] with 178522
+Merging ['174529'] with 161563
+Merging ['176363'] with 69374
+Merging ['106999'] with 75320
+Merging ['176826'] with 159458
+Merging ['170308'] with 182255
+Merging ['157877'] with 212389
+Merging ['137335'] with 159450
+Merging ['176637'] with 97912
+Merging ['89563'] with 89321
+Merging ['178520'] with 179031
+Merging ['172759'] with 221319
+Merging ['176160'] with 133881
+Merging ['177850'] with 179255
+Merging ['159784'] with 159930
+Merging ['176869'] with 182255
+Merging ['151075'] with 149121
+Merging ['158823'] with 222107
+Merging ['186170'] with 177994
+Merging ['150934'] with 142715
+Merging ['180631'] with 181392
+Merging ['182574'] with 173518
+Merging ['149965'] with 28649
+Merging ['136215'] with 176471
+Merging ['203308'] with 202537
+Merging ['184164'] with 125577
+Merging ['172886'] with 172735
+Merging ['201378'] with 156561
+Merging ['183452'] with 102527
+Merging ['183106'] with 168475
+Merging ['182627'] with 189126
+Merging ['181176'] with 194711
+Merging ['164611'] with 153936
+Merging ['66809'] with 66763
+Merging ['184720'] with 129228
+Merging ['173714'] with 146825
+Merging ['185138'] with 113568
+Merging ['185511'] with 185468
+Merging ['187099'] with 148603
+Merging ['186428'] with 197809
+Merging ['187929'] with 132450
+Merging ['184295'] with 189126
+Merging ['173868'] with 186208
+Merging ['188622'] with 192530
+Merging ['189796'] with 198115
+Merging ['190053'] with 190067
+Merging ['190119'] with 189814
+Merging ['106108'] with 79112
+Merging ['87368'] with 230854
+Merging ['189658'] with 97590
+Merging ['199441'] with 86745
+Merging ['185426'] with 188724
+Merging ['188218'] with 189276
+Merging ['210364'] with 191830
+Merging ['192299'] with 186248
+Merging ['162966'] with 212389
+Merging ['194501'] with 195529
+Merging ['193950'] with 189869
+Merging ['177727'] with 176203
+Merging ['190009'] with 195179
+Merging ['196457'] with 194216
+Merging ['189074'] with 191396
+Merging ['101611'] with 88204
+Merging ['193845'] with 211012
+Merging ['208084'] with 207743
+Merging ['189675'] with 182734
+Merging ['195544'] with 163601
+Merging ['195895'] with 198934
+Merging ['193542'] with 216755
+Merging ['178063'] with 225944
+Merging ['186311'] with 192638
+Merging ['122805'] with 159839
+Merging ['196346'] with 152793
+Merging ['101557'] with 216760
+Merging ['192391'] with 84776
+Merging ['170634'] with 111329
+Merging ['220197'] with 214788
+Merging ['194121'] with 135025
+Merging ['195569'] with 195778
+Merging ['198415'] with 198418
+Merging ['195953'] with 198617
+Merging ['166567'] with 226203
+Merging ['195191'] with 142965
+Merging ['199934'] with 149513
+Merging ['199991'] with 23406
+Merging ['226947'] with 228413
+Merging ['195100'] with 207743
+Merging ['200766'] with 187125
+Merging ['200225'] with 166402
+Merging ['194020'] with 190613
+Merging ['199282'] with 204131
+Merging ['199842'] with 209428
+Merging ['111238'] with 147831
+Merging ['152102'] with 152620
+Merging ['192184'] with 206011
+Merging ['180728'] with 142715
+Merging ['204532'] with 204799
+Merging ['203007'] with 142965
+Merging ['205169'] with 127158
+Merging ['204091'] with 233967
+Merging ['165910'] with 203471
+Merging ['205997'] with 121593
+Merging ['249705'] with 238505
+Merging ['195889'] with 211526
+Merging ['206578'] with 205524
+Merging ['198879'] with 154923
+Merging ['206893'] with 207009
+Merging ['206441'] with 150626
+Merging ['211715'] with 198230
+Merging ['196318'] with 241545
+Merging ['207998'] with 204184
+Merging ['208581'] with 195897
+Merging ['198067'] with 229919
+Merging ['205589'] with 161236
+Merging ['254863'] with 238299
+Merging ['209418'] with 208062
+Merging ['157342'] with 150663
+Merging ['162825'] with 156270
+Merging ['208350'] with 213128
+Merging ['209212'] with 215252
+Merging ['220543'] with 178595
+Merging ['211255'] with 211122
+Merging ['211968'] with 199350
+Merging ['211701'] with 211553
+Merging ['187351'] with 175733
+Merging ['194507'] with 165998
+Merging ['208423'] with 218055
+Merging ['196208'] with 202211
+Merging ['184538'] with 244628
+Merging ['213969'] with 159857
+Merging ['237883'] with 211124
+Merging ['212493'] with 198623
+Merging ['212987'] with 196289
+Merging ['214932'] with 208062
+Merging ['195637'] with 208456
+Merging ['218089'] with 170385
+Merging ['7370'] with 16036
+Merging ['225255'] with 215568
+Merging ['218412'] with 236324
+Merging ['175324'] with 166595
+Merging ['218989'] with 221768
+Merging ['219567'] with 205797
+Merging ['191609'] with 62293
+Merging ['251928'] with 251929
+Merging ['224594'] with 234290
+Merging ['223119'] with 223088
+Merging ['222681'] with 222321
+Merging ['224366'] with 224317
+Merging ['73519'] with 36754
+Merging ['224360'] with 231215
+Merging ['216147'] with 257142
+Merging ['225315'] with 236513
+Merging ['228133'] with 228060
+Merging ['229007'] with 229761
+Merging ['229413'] with 229240
+Merging ['229290'] with 229240
+Merging ['203819'] with 199337
+Merging ['228405'] with 228717
+Merging ['229370'] with 228903
+Merging ['226652'] with 182935
+Merging ['230373'] with 224145
+Merging ['114340'] with 62719
+Merging ['231754'] with 231050
+Merging ['231315'] with 231271
+Merging ['229605'] with 228517
+Merging ['230233'] with 236921
+Merging ['209915'] with 233095
+Merging ['232662'] with 229069
+Merging ['215078'] with 241139
+Merging ['235020'] with 234910
+Merging ['235770'] with 235760
+Merging ['199392'] with 138184
+Merging ['235905'] with 227717
+Merging ['236173'] with 236157
+Merging ['183880'] with 68898
+Merging ['238699'] with 244197
+Merging ['252510'] with 251400
+Merging ['225209'] with 163065
+Merging ['239253'] with 221094
+Merging ['241089'] with 241484
+Merging ['239771'] with 181258
+Merging ['239780'] with 233297
+Merging ['80894'] with 24753
+Merging ['241194'] with 240805
+Merging ['240124'] with 238863
+Merging ['203761'] with 257063
+Merging ['241692'] with 195229
+Merging ['220090'] with 212389
+Merging ['241948'] with 241972
+Merging ['212853'] with 195229
+Merging ['238154'] with 251400
+Merging ['243398'] with 244086
+Merging ['243445'] with 236437
+Merging ['243597'] with 223086
+Merging ['243207'] with 224484
+Merging ['244188'] with 244265
+Merging ['233272'] with 257142
+Merging ['228625'] with 138173
+Merging ['241637'] with 224615
+Merging ['251907'] with 239668
+Merging ['244771'] with 244770
+Merging ['246128'] with 236437
+Merging ['245490'] with 244580
+Merging ['244407'] with 230449
+Merging ['259134', '243095'] with 251622
+Merging ['248136'] with 252369
+Merging ['248173'] with 194734
+Merging ['248090'] with 234366
+Merging ['248547'] with 234916
+Merging ['248598', '237250'] with 231570
+Merging ['248438'] with 248648
+Merging ['248667'] with 246803
+Merging ['241476'] with 215530
+Merging ['141874'] with 71627
+Merging ['250571'] with 165912
+Merging ['250603'] with 248683
+Merging ['240266'] with 230050
+Merging ['258896'] with 248604
+Merging ['224245'] with 204865
+Merging ['241592'] with 251504
+Merging ['193107'] with 109137
+Merging ['243047'] with 239109
+Merging ['253401'] with 237211
+Merging ['249846'] with 255885
+Merging ['255223'] with 251536
+Merging ['256213'] with 255981
+Merging ['244075'] with 166644
+Merging ['254559'] with 245667
+Merging ['222862'] with 256919
+Merging ['257067'] with 256908
+Merging ['250446'] with 188795
+Merging ['203461'] with 184475
+Merging ['252090'] with 223315
+Merging ['259426'] with 120499
+Merging ['259690'] with 218597
+Number of merged master sets: 1580
+Be careful with the timezone 01/01/2008, 00:00:00 +0000 
+Using 2008/01/01 date to split database into training and test.
+Generating validation dataset with 0.05 of training duplicate bugs.
+Total:	33307 duplicate bugs	258680 of bug reports
+Training:	27481 duplicate bugs	198183 of bug reports
+Validation:	1446 duplicate bugs	14703 of bug reports
+Test:	4380 duplicate bugs	45794 of bug reports
+Saving json file
+Finished!!!
