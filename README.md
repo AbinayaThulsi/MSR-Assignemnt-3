@@ -171,7 +171,7 @@ python3 data/sabd.py -F HOME_DIR/experiments with HOME_DIR/duplicate-bug-report/
 The attached screenshot is the final results which we have achieved.
 Since we had to use a small data of about 600 records the recall rate becomes 1 from k=3 onwards. So, we ran only for the Eclipse as it would be the same case for other open sources because of data constraint.
 
-##### Link to the final result: [result](https://github.com/AbinayaThulsi/MSR-Soft-Alignment-Model-for-Bug-Duplication/blob/main/process/Ouput_Sample_data/cout.txt)
+##### Link to the final result: [Output](https://github.com/AbinayaThulsi/MSR-Soft-Alignment-Model-for-Bug-Duplication/blob/main/process/Ouput_Sample_data/cout.txt)
 
 ![](Image/recall_rate_MAP.PNG)
 
