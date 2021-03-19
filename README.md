@@ -71,6 +71,7 @@ The original dataset is available [here](http://alazar.people.ysu.edu/msr14data/
 During data extraction mongodb is required to get the data from Lazar's work(this work uses mongo data base to store and extract the data). We use the obtained data and process it.
 
 ```bash
+#eclipse
  wget http://alazar.people.ysu.edu/msr14data/datasets/eclipse.tar.gz
  tar zxvf eclipse.tar.gz
  mongorestore
@@ -79,7 +80,7 @@ During data extraction mongodb is required to get the data from Lazar's work(thi
  db.initial.count()
  ```
  ```bash
- 
+ #mozilla
  wget http://alazar.people.ysu.edu/msr14data/datasets/mozilla.tar.gz
  tar zxvf mozilla.tar.gz
  mongorestore
@@ -87,6 +88,7 @@ During data extraction mongodb is required to get the data from Lazar's work(thi
  show collections
  ```
  ```bash
+ #openoffice
  wget http://alazar.people.ysu.edu/msr14data/datasets/openOffice.tar.gz
  tar zxvf openOffice.tar.gz
  mongorestore
@@ -94,6 +96,7 @@ During data extraction mongodb is required to get the data from Lazar's work(thi
  show collections
  ```
  ```bash
+ #netbeans
  wget http://alazar.people.ysu.edu/msr14data/datasets/netBeans.tar.gz
  tar zxvf netBeans.tar.gz
  mongorestore
@@ -126,23 +129,20 @@ python data/generate_pairs_triplets.py --bug_data DATASET_DIR/eclipse_2001-2007_
 python data/generate_categorical_lexicon.py --bug_data DATASET_DIR/eclipse_2001-2007_2008/eclipse_initial.json -o DATASET_DIR/dataset/sun_2011/eclipse_2001-2007_2008/categorical_lexicons.json
 ```
 
-
-# Mozilla
 ```bash
+# Mozilla
 python3 data/create_dataset_our_methodology.py --database mozilla --collection initial --bug_data DATASET_DIR/mozilla_2001-2009_2010/mozilla_initial.json --training DATASET_DIR/mozilla_2001-2009_2010/training_split_mozilla.txt --validation  DATASET_DIR/mozilla_2001-2009_2010/validation_mozilla.txt --test DATASET_DIR/mozilla_2001-2009_2010/test_mozilla.txt --date="2008/01/01" --date_threshold="2008/12/31" --no_tree --dev_perc=0.05
 
 python3 data/clean_data.py --bug_dataset DATASET_DIR/mozilla_2001-2009_2010/mozilla_initial.json --output DATASET_DIR/mozilla_2001-2009_2010/mozilla_soft_clean_rm_punc_sent_tok.txt.json --fields short_desc description --type soft --rm_punc --sent_tok --lower_case
 ```
-
-# Netbeans
 ```bash
+# Netbeans
 python3 data/create_dataset_our_methodology.py --database netBeans --collection netall --bug_data DATASET_DIR/netbeans_2001-2007_2008/netbeans_initial.json --training  DATASET_DIR/netbeans_2001-2007_2008/training_split_netbeans.txt --validation  DATASET_DIR/netbeans_2001-2007_2008/validation_netbeans.txt --test DATASET_DIR/netbeans_2001-2007_2008/test_netbeans.txt --date="2008/01/01" --date_threshold="2008/12/31" --no_tree --dev_perc=0.05
 
 python3 data/clean_data.py --bug_dataset DATASET_DIR/netbeans_2001-2007_2008/netbeans_initial.json --output DATASET_DIR/netbeans_2001-2007_2008/netbeans_soft_clean_rm_punc_sent_tok.txt.json --fields short_desc description --type soft --rm_punc --sent_tok --lower_case
 ```
-
-# OpenOffice
 ```bash
+# OpenOffice
 python3 data/create_dataset_our_methodology.py --database openOffice --collection ooall --bug_data DATASET_DIR/open_office_2001-2008_2010/open_office_initial.json --training  DATASET_DIR/open_office_2001-2008_2010/training_split_open_office.txt --validation  DATASET_DIR/open_office_2001-2008_2010/validation_open_office.txt --test DATASET_DIR/open_office_2001-2008_2010/test_open_office.txt --date="2008/01/01" --date_threshold="2010/12/31" --no_tree --dev_perc=0.05
 
 python3 data/clean_data.py --bug_dataset DATASET_DIR/open_office_2001-2008_2010/open_office_initial.json --output DATASET_DIR/open_office_2001-2008_2010/open_office_soft_clean_rm_punc_sent_tok.txt.json --fields short_desc description --type soft --rm_punc --sent_tok --lower_case
