@@ -55,7 +55,7 @@ Few Reference links:
 
 Above are the reference given in our paper but other than this we researched many other techniques but we couldnt come up with any great idea to overcome our issue. 
 
-4.[Automated Duplicate Detection for Bug Tracking Systems](https://web.eecs.umich.edu/~weimerw/p/weimer-dsn2008.pdf) This is very old paper which uses linear regression but many new techniques are come into light now a days for the amount of data we are getting in real world.
-5.[Budhiraja](https://dl.acm.org/doi/proceedings/10.1145/3183440) This technique is already referred by our author. So we either found very old techniques or the ones used in our paper as reference to make our paper the best.
+4. [Automated Duplicate Detection for Bug Tracking Systems](https://web.eecs.umich.edu/~weimerw/p/weimer-dsn2008.pdf) This is very old paper which uses linear regression but many new techniques are come into light now a days for the amount of data we are getting in real world.
+6. [Budhiraja](https://dl.acm.org/doi/proceedings/10.1145/3183440) This technique is already referred by our author. So we either found very old techniques or the ones used in our paper as reference to make our paper the best.
 
 And after looking into many reference papers like this we came to know that many best techniques are combined to make SABD paper the best .so we couldnt find much resource which can be used to make our code even more better. We tried all the possible techniques we can come up with. 
