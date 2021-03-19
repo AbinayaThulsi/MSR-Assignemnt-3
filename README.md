@@ -31,7 +31,7 @@ One such alternative which we came across was implementing an algorithm called [
 We started looking into YOCO (You Only Compare Once) and YOLO(You Only Look Once). These are the techniques used to improve the performance in siamese network. YOLO is the algorithm which detects or finds duplicates in one forward propogation instead of going in loop and YOCO compares in one forward propogation. We went through many papers and GitHub repositories to address our threat in the similar way.  Since there were not many resources available, we ourself tried to implement the idea of algorithm. But, we were not able to fix the issue.
 
 ## Second Approach:
-Secondly, we decided to proceed with of changing Siamese algorithm, using YOCO and YOLO in this algorithm. We started working on siamese_pairs code and we made some code changes. Please refer([assignment 2])(https://github.com/AbinayaThulsi/MSR-Soft-Alignment-Model-for-Bug-Duplication)for the data extraction part.
+Secondly, we decided to proceed with of changing Siamese algorithm, using YOCO and YOLO in this algorithm. We started working on siamese_pairs code and we made some code changes. Please refer(assignment 2](https://github.com/AbinayaThulsi/MSR-Soft-Alignment-Model-for-Bug-Duplication) for the data extraction part.
 
 ##### Command to Execute :
 ```bash
