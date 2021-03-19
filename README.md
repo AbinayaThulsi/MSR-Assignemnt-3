@@ -43,27 +43,14 @@ Install the following packages:
 ```bash
 #CPU
 conda install pytorch torchvision cpuonly -c pytorch 
-```
-```bash
 #GPU
 conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
-```
-```bash
+
 conda install -c anaconda nltk
-```
-```bash
 conda install -c anaconda scipy
-```
-```bash
 conda install -c anaconda ujson
-```
-```bash
 conda install -c pytorch ignite=0.4.2
-```
-```bash
 pip install sacred 
-```
-```bash
 conda install ignite -c pytorch
 ```
 Otherwise, run the below command to install all the Packages.
@@ -137,20 +124,25 @@ python data/generate_pairs_triplets.py --bug_data DATASET_DIR/eclipse_2001-2007_
 
 # example to create categorical_lexicons
 python data/generate_categorical_lexicon.py --bug_data DATASET_DIR/eclipse_2001-2007_2008/eclipse_initial.json -o DATASET_DIR/dataset/sun_2011/eclipse_2001-2007_2008/categorical_lexicons.json
+```
 
 
 # Mozilla
+```bash
 python3 data/create_dataset_our_methodology.py --database mozilla --collection initial --bug_data DATASET_DIR/mozilla_2001-2009_2010/mozilla_initial.json --training DATASET_DIR/mozilla_2001-2009_2010/training_split_mozilla.txt --validation  DATASET_DIR/mozilla_2001-2009_2010/validation_mozilla.txt --test DATASET_DIR/mozilla_2001-2009_2010/test_mozilla.txt --date="2008/01/01" --date_threshold="2008/12/31" --no_tree --dev_perc=0.05
 
 python3 data/clean_data.py --bug_dataset DATASET_DIR/mozilla_2001-2009_2010/mozilla_initial.json --output DATASET_DIR/mozilla_2001-2009_2010/mozilla_soft_clean_rm_punc_sent_tok.txt.json --fields short_desc description --type soft --rm_punc --sent_tok --lower_case
+```
 
 # Netbeans
+```bash
 python3 data/create_dataset_our_methodology.py --database netBeans --collection netall --bug_data DATASET_DIR/netbeans_2001-2007_2008/netbeans_initial.json --training  DATASET_DIR/netbeans_2001-2007_2008/training_split_netbeans.txt --validation  DATASET_DIR/netbeans_2001-2007_2008/validation_netbeans.txt --test DATASET_DIR/netbeans_2001-2007_2008/test_netbeans.txt --date="2008/01/01" --date_threshold="2008/12/31" --no_tree --dev_perc=0.05
 
 python3 data/clean_data.py --bug_dataset DATASET_DIR/netbeans_2001-2007_2008/netbeans_initial.json --output DATASET_DIR/netbeans_2001-2007_2008/netbeans_soft_clean_rm_punc_sent_tok.txt.json --fields short_desc description --type soft --rm_punc --sent_tok --lower_case
-
+```
 
 # OpenOffice
+```bash
 python3 data/create_dataset_our_methodology.py --database openOffice --collection ooall --bug_data DATASET_DIR/open_office_2001-2008_2010/open_office_initial.json --training  DATASET_DIR/open_office_2001-2008_2010/training_split_open_office.txt --validation  DATASET_DIR/open_office_2001-2008_2010/validation_open_office.txt --test DATASET_DIR/open_office_2001-2008_2010/test_open_office.txt --date="2008/01/01" --date_threshold="2010/12/31" --no_tree --dev_perc=0.05
 
 python3 data/clean_data.py --bug_dataset DATASET_DIR/open_office_2001-2008_2010/open_office_initial.json --output DATASET_DIR/open_office_2001-2008_2010/open_office_soft_clean_rm_punc_sent_tok.txt.json --fields short_desc description --type soft --rm_punc --sent_tok --lower_case
