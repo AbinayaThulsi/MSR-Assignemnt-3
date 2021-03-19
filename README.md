@@ -17,7 +17,7 @@ The [Code](https://github.com/irving-muller/soft_alignment_model_bug_deduplicati
 
 The reproduction [Code & Data](https://github.com/AbinayaThulsi/MSR-Soft-Alignment-Model-for-Bug-Duplication) can be found here.
 
-# Experiment
+# Research
 
 # Threat
 
