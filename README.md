@@ -43,14 +43,27 @@ Install the following packages:
 ```bash
 #CPU
 conda install pytorch torchvision cpuonly -c pytorch 
+```
+```bash
 #GPU
 conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
-
+```
+```bash
 conda install -c anaconda nltk
+```
+```bash
 conda install -c anaconda scipy
+```
+```bash
 conda install -c anaconda ujson
+```
+```bash
 conda install -c pytorch ignite=0.4.2
+```
+```bash
 pip install sacred 
+```
+```bash
 conda install ignite -c pytorch
 ```
 Otherwise, run the below command to install all the Packages.
@@ -77,20 +90,23 @@ During data extraction mongodb is required to get the data from Lazar's work(thi
  mongo eclipse
  show collections
  db.initial.count()
+ ```
+ ```bash
  
  wget http://alazar.people.ysu.edu/msr14data/datasets/mozilla.tar.gz
  tar zxvf mozilla.tar.gz
  mongorestore
  mongo mozilla
  show collections
- 
- 
+ ```
+ ```bash
  wget http://alazar.people.ysu.edu/msr14data/datasets/openOffice.tar.gz
  tar zxvf openOffice.tar.gz
  mongorestore
  mongo openOffice
  show collections
- 
+ ```
+ ```bash
  wget http://alazar.people.ysu.edu/msr14data/datasets/netBeans.tar.gz
  tar zxvf netBeans.tar.gz
  mongorestore
