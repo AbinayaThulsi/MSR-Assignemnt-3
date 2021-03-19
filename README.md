@@ -32,7 +32,7 @@ The [Code](https://github.com/irving-muller/soft_alignment_model_bug_deduplicati
         - **GPU** : NVIDIA GPUs G8x version onwards
 
 - Software
-    - Python, Pytorch, nltk, scipy, ujson, pytorch ignite 0.1.2, sacred, MongoDB
+    - Python, Pytorch, nltk, scipy, ujson, pytorch ignite 0.1.2, sacred, MongoDB, h5py
 
 
 ## Process
