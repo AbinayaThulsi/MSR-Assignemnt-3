@@ -15,7 +15,7 @@ The [Code](https://github.com/irving-muller/soft_alignment_model_bug_deduplicati
 
 # Baseline
 
-The reproduction [Code & Data](https://github.com/AbinayaThulsi/MSR-Soft-Alignment-Model-for-Bug-Duplication) can be found here.
+The reproduction [Code & Data](https://github.com/AbinayaThulsi/MSR-Soft-Alignment-Model-for-Bug-Duplication) can be found here. Which is the baseline for this project.
 
 # Research
 
