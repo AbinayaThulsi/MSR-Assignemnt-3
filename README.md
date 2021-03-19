@@ -49,10 +49,12 @@ As the [attention mechanism](https://arxiv.org/abs/1409.0473) computes interdepe
 # Conclusion
 We did not stop with only three approaches. We kept on looking into many other reference papers and codes. But these three are the main approaches we started implementing. After looking into many papers we understood that SABD is using best  and realistic methodolody compared to other papers, which was mentioned in our paper too. Nevertheless, we still wanted to try out few other alternatives and come to conclusion. We still cannot say the time cant be reduced by any method. As mentioned in second approach siamese will take less time but we can start researching on how to increase recall rate using siamese ,But we have not come accross anything with access to few resources and with the time constraint we had. We have tried with many code changes either we could not overcome the errors faced or the code was even more time consuming than the existing SABD approach.
 Few Reference links:
-1. [siamese](https://ieeexplore.ieee.org/document/8094414)
-2. [Poddar et al](https://www.aclweb.org/anthology/N19-2020/) This technique is used in SABD.
-3. [Sun et al] (https://ieeexplore.ieee.org/document/6100061) mean average precision (MAP) and recall rate@k (RR@k) techniques used in this paper is taken to SABD.
+1. [Siamese](https://ieeexplore.ieee.org/document/8094414). As mentioned above all Siamese related papers can be considered to overcome few issues but the existing one's will give lower RR@K compared to SABD.
+2. [Poddar et al](https://www.aclweb.org/anthology/N19-2020/) Few techniques used in this paper is taken to implement SABD.
+3. [Sun et al] (https://ieeexplore.ieee.org/document/6100061) mean average precision (MAP) and recall rate@k (RR@k) techniques used in this paper is taken to implement SABD.
+
 Above are the reference given in our paper but other than this we researched many other techniques but we couldnt come up with any great idea to overcome our issue. 
+
 4.[Automated Duplicate Detection for Bug Tracking Systems](https://web.eecs.umich.edu/~weimerw/p/weimer-dsn2008.pdf) This is very old paper which uses linear regression but many new techniques are come into light now a days for the amount of data we are getting in real world.
 5.[Budhiraja](https://dl.acm.org/doi/proceedings/10.1145/3183440) This technique is already referred by our author. So we either found very old techniques or the ones used in our paper as reference to make our paper the best.
 
