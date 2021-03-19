@@ -52,7 +52,7 @@ We did not stop with only three approaches. We kept on looking into many other r
 Here are few links and explanation on why our paper is considered as best by us:
 1. [Siamese](https://ieeexplore.ieee.org/document/8094414). As mentioned above all Siamese related papers can be considered to overcome few issues but the existing one's will give lower RR@K compared to SABD.
 2. [Poddar et al](https://www.aclweb.org/anthology/N19-2020/) Few techniques used in this paper is taken to implement SABD.
-3. [Sun et al] (https://ieeexplore.ieee.org/document/6100061) mean average precision (MAP) and recall rate@k (RR@k) techniques used in this paper is taken to implement SABD.
+3. [Sun et al](https://ieeexplore.ieee.org/document/6100061) mean average precision (MAP) and recall rate@k (RR@k) techniques used in this paper is taken to implement SABD.
 
 Above are the reference given in our paper but other than this we researched many other techniques but we couldnt come up with any great idea to overcome our issue. 
 
