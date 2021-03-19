@@ -210,11 +210,18 @@ Since we had to use a small data of about 600 records the recall rate becomes 1 
 
 The model is slower than the methods based on Siamese neural networks. Hence the runtime itself is high with GPU. In our case, as mentioned by us in assignment 2 we ran using CPU so the time taken will be even more. Hence, we decided to work on reducing the runtime using other algorithms.
 
+## Traces
+Author stated in the Concluding remarks that "This mechanism has a cost in terms of runtime. As the fixed-length representations of the reports are jointly generated, it is not possible to save computation time by storing them. Therefore, our model is slower than the methods based on Siamese neural networks"
+
 ## Theory
 
 If this has to be used in real-time and GPU is not available then it will be difficult to find the bugs as the time taken will be more. We are planning to address this issue by using different algorithm in Siamese network which is YOCO(You Only Compare Once). YOCO compares many records in one forward propogation. Using this we can reduce the run time. We have got some idea about few alternate algorithms that can be used. We will try to overcome this issue by trying the different algorithms.
 
-## Research
+## Feasibility
+
+Reproduction is about finding the threat to validity and addressing them. For the suspected threat using different algorithm promises us better result in terms of runtime. As using different algorithm or approach is one of the MSR-like threats, so we can say that working on this fits into MSR course.
+
+## Implementation and Research
 
 As mentioned during the agreement the only threat that we came accross was runtime issue. Since the fixed-length representations of the reports is being generated jointly, it seemed to be hard to save computation time. Hence, the SABD model is slower based on Siamese neural networks. In-Order to reduce the runtime, we looked for many alternative sources. 
 ### First Approach :
