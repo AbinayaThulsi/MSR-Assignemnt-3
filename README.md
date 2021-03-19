@@ -33,7 +33,7 @@ We started looking into YOCO (You Only Compare Once) and YOLO(You Only Look Once
 ## Second Approach:
 Secondly, we decided to proceed with of changing Siamese algorithm, using YOCO and YOLO in this algorithm. We started working on siamese_pairs code and we made some code changes([assignment 2 can be referred to understand data extraction part](https://github.com/AbinayaThulsi/MSR-Soft-Alignment-Model-for-Bug-Duplication).
 
-### Command to Execute :
+##### Command to Execute :
 ```bash
 python3 experiments/siamese_pairs.py  -F HOME_DIR/experiments with HOME_DIR/duplicate-bug-report/json_parameters/siamese_pair_test_eclipse.json "recall_rate.window=365").
 ```
