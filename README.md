@@ -257,3 +257,18 @@ The below are the references we came across during our research. These papers we
 
 Even though the previous works similar to SABD they were are not much helpful, this research helped to realise that SABD model of Bug tracking system is the combination of all best techniques which were addressed separately in previous works. Hence, having execution time constraint to be the only threat we could not find much resource which can be used to make our code even better. We tried all the possible techniques we can come up with.
 
+## Requirements
+
+Same as baseline
+
+
+## Process
+
+After Data Extarction and preprocessing part in baseline. Execute below command.
+```bash
+python3 experiments/siamese_pairs.py  -F HOME_DIR/experiments with HOME_DIR/duplicate-bug-report/json_parameters/siamese_pair_test_eclipse.json "recall_rate.window=365"
+```
+
+## Data
+
+Same sample data of eclipse is used which was used in baseline.
