@@ -54,6 +54,8 @@ Here are few links that are stated in paper. Ongoing through these reference, it
 2.	Few techniques used by [Poddar et al](https://www.aclweb.org/anthology/N19-2020/) in this paper is taken to implement SABD.
 3.	[Sun et al](https://ieeexplore.ieee.org/document/6100061) mean average precision (MAP) and recall rate@k (RR@k) techniques used in this paper is taken to implement SABD.
 
+![](Image/sabd_model_comparison.PNG)
+
 The below are the references we came across during our research. These papers were facing similar threats as ours which makes use of other techniques. 
 4.	[Automated Duplicate Detection for Bug Tracking Systems](https://web.eecs.umich.edu/~weimerw/p/weimer-dsn2008.pdf) is a very old paper which uses linear regression, but many new techniques are come into light now a days for the amount of data we are getting in real world.
 5.	[Budhiraja](https://dl.acm.org/doi/proceedings/10.1145/3183440)'s technique is already referred by our author. So, we either found very old techniques or the ones used in our paper as reference to make our paper the best.
