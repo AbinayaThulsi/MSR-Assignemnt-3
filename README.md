@@ -5,7 +5,7 @@ This is a further research project on paper - "A Soft Alignment Model for Bug De
 
 # Baseline
 
-#  Metadata 
+##  Metadata 
 
 A reproduction as part of the MSR course at MSR couse 2020/21 at UniKo, CS department, SoftLang Team.
 
@@ -15,7 +15,7 @@ A reproduction as part of the MSR course at MSR couse 2020/21 at UniKo, CS depar
 
 The [Code](https://github.com/irving-muller/soft_alignment_model_bug_deduplication) & [Dataset](https://zenodo.org/record/3922012#.YBUloehKhnI) of the paper can be found here.
 
-# Requirements 
+## Requirements 
 
 - Hardware
     - Minimum Requirements:  
@@ -35,9 +35,9 @@ The [Code](https://github.com/irving-muller/soft_alignment_model_bug_deduplicati
     - Python, Pytorch, nltk, scipy, ujson, pytorch ignite 0.1.2, sacred, MongoDB
 
 
-# Process
+## Process
 
-## Step 1: Package Installation
+### Step 1: Package Installation
 Install the following packages:
 
 ```bash
@@ -58,7 +58,7 @@ Otherwise, run the below command to install all the Packages.
 pip install -r requirements.txt
 ```
 
-## Step 2: Data Extraction
+### Step 2: Data Extraction
 The complete data can be found [here](https://zenodo.org/record/3922012#.YBUloehKhnI) .
 
 The data can also be fetched by the below process:
@@ -102,7 +102,7 @@ During data extraction mongodb is required to get the data from Lazar's work(thi
 > Note: Lazar's dataset has to be dumped into mongo before running these commands
 
 
-## Step 3: Data Preprocessing
+### Step 3: Data Preprocessing
 
 > Note: The code has been completely automated for **Ecliple**. After running the command under eclipse, we can directly run the SABD code under **Usage**.
 
@@ -140,7 +140,7 @@ python3 data/create_dataset_our_methodology.py --database openOffice --collectio
 python3 data/clean_data.py --bug_dataset DATASET_DIR/open_office_2001-2008_2010/open_office_initial.json --output DATASET_DIR/open_office_2001-2008_2010/open_office_soft_clean_rm_punc_sent_tok.txt.json --fields short_desc description --type soft --rm_punc --sent_tok --lower_case
 ```
    
-# Usage
+## Usage
 
 In order to train SABD, a json have to be created with the argument values of SABD. 
 
@@ -154,47 +154,47 @@ python3 data/sabd.py -F HOME_DIR/experiments with HOME_DIR/duplicate-bug-report/
 python3 data/sabd.py -F HOME_DIR/experiments with HOME_DIR/duplicate-bug-report/json_parameters/sabd_netbeans_test.json "recall_rate.window=365"
 python3 data/sabd.py -F HOME_DIR/experiments with HOME_DIR/duplicate-bug-report/json_parameters/sabd_mozilla_test.json "recall_rate.window=365"
 ```
-# Data
+## Data
 
-## Input Data
+### Input Data
 - The Bug report is collected from four open source projects (Eclipse, Mozilla, NetBeans and Open Office). 
 - Soft Alignment Model for Bug Deduplication (SABD) model receives the bug reports as the input which is composed of the categorical fields, a summary and a description. 
 - We get the input data from the data extraction phrase. The sample data is present [here](https://github.com/AbinayaThulsi/MSR-Soft-Alignment-Model-for-Bug-Duplication/tree/main/data/HOME_DIR/dataset/sun_2011/eclipse_2001-2007_2008).
 
-## Output Data
+### Output Data
 - Soft Alignment Model for Bug Deduplication (SABD) model outputs the probability of the bug report being a duplicate and indicates whether the given reports are duplicate. 
 - The output is evaluated using two metrics i.e. mean average precision (MAP, a ranking based metric) and recall rate@k (RR@k). This is been calculated for each open source at k= 1 to 20, where k is the list of bug reports recommended by the triager. Therefore, with the help of Time Window for a period of 1 to 3 years the data is being compared.
 - The output of our sample data can be found [here](https://github.com/AbinayaThulsi/MSR-Soft-Alignment-Model-for-Bug-Duplication/tree/main/process/Ouput_Sample_data).
 
-# Results
+## Results
 
 The attached screenshot is the final results which we have achieved.
 Since we had to use a small data of about 600 records the recall rate becomes 1 from k=3 onwards. So, we ran only for the Eclipse as it would be the same case for other open sources because of data constraint.
 
 ![](Image/recall_rate_MAP.PNG)
 
-# Delta
+## Delta
 
-## Process Delta 
+### Process Delta 
 - We were able to fetch the data using the commands provided with few minor changes in the code (e.g.Changing the path). The data was fetched to mongodb and then to local system.
 - Data preprocessing also worked fine (cleaning data, creating pairs etc). 
 - The method was tested with a time window of one year and three years to measure how its size affects performance.
 - During analysis sabd.py program had to be modified to run for the CPU instead of GPU. As we did not have the version of GPU needed to run the code for the dataset provided.
 
-## Data Delta
+### Data Delta
 - When we ran the code with CPU instead of GPU, the code ran for about 20 hours without any outputs as the size of dataset was huge. So we manually took the sample of data for one of the open source (eclipse) and preprocessed data using clean_data, generate_pairs_triplets, generate_categorical_lexicon. 
 - We ran the sabd.py code for 1 year and 3 years window and we got the final output. i.e, ranking rate for k 1 to 20 and the value of MAP.
 - Since we could only run for sample data we could not compare the results with other open sources or with other methodologies. 
 - The code article_results.ipynb gives the comparison for all open sources and other methodologies. These ranking rates were fetched by the author of the paper. All the ranking rates were fetched as a list in article_results.ipynb code. As mentioned in 3rd point we were not able to compare because of the GPU constraint.
 
-## Problems Faced
+### Problems Faced
 - During data fetch phrase we did not face much issues, MongoDB was required and a few minor changes had to be done. Data preprocessing went smoothly.
 - The major issue was while running sabd.py which took us a few days to figure out the exact issue which was related to compatibility and version. We were getting GPU issue (Error: No HIP GPU available) which we resolved by downloading drivers. But, the versions were not matching so NVIDIA failed to communicate with the driver (Error : No Nvidia driver in your system).
 - To overcome GPU issue, we tried to run the code with only CPU. But the code was running for epoch:1 for about 20 hours. 
 - We tried running for 10000 records but after 1 hour the code was still at epoch 1.
 - So we decided to run the code by taking around 500-600 records and were able to receive recall-rate within 10 mins. The sample data we have provided for eclipse has around 600 records. 
 
-# Research
+# Experiment
 
 ## Threat
 
@@ -204,7 +204,7 @@ The model is slower than the methods based on Siamese neural networks. Hence the
 
 If this has to be used in real-time and GPU is not available then it will be difficult to find the bugs as the time taken will be more. We are planning to address this issue by using different algorithm in Siamese network which is YOCO(You Only Compare Once). YOCO compares many records in one forward propogation. Using this we can reduce the run time. We have got some idea about few alternate algorithms that can be used. We will try to overcome this issue by trying the different algorithms.
 
-## Experiment
+## Research
 
 As mentioned during the agreement the only threat that we came accross was runtime issue. Since the fixed-length representations of the reports is being generated jointly, it seemed to be hard to save computation time. Hence, the SABD model is slower based on Siamese neural networks. In-Order to reduce the runtime, we looked for many alternative sources. 
 ### First Approach :
@@ -223,7 +223,7 @@ But it was able to run only until the 1st epoch, afterwards we started getting s
 ### Third Approach:
 As the [attention mechanism](https://arxiv.org/abs/1409.0473) computes interdependent representations for each report jointly for pair of possibly duplicate reports, it is the main reason for the model being slow and not being efficiently faster. So, we even tried to split and generate the representation in batches. But the bug duplicate report detection accuracy was not remarkable. As already stated in the paper, even though fixed representation consumes more time the model performs the best only by that. 
 
-# Conclusion
+## Conclusion
 Along with above mentioned three approaches, we further investigated several related works and papers. We also understood that SABD is using best and realistic methodology compared to other models addressed in other similar papers, which was mentioned in our paper as well. Nevertheless, we still wanted to try out few other alternatives and come to conclusion and concluded that, the mentioned three approaches seemed more suitable for addressing the Bug tracking System’s (BTS) threat. It cannot be said that reducing the execution time is impossible because the Siamese approach seems to be quiet convincing.  But, with the time constraints and few available resources it was hard to try other approaches completely. While trying out the methodologies, we were facing challenges in either resolving the issues or method was more time consuming compared to SABD approach.
 
 Here are few links that are stated in paper. Ongoing through these reference, it is explainable why our paper is already considered as best compared to other existing models. 
