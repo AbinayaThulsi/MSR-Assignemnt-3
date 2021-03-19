@@ -1,4 +1,4 @@
-# MSR-Assignemnt-3
+# MSR-Assignment-3
 # Soft Alignment Model for Bug Duplication
 
 This is a further research project on paper - "A Soft Alignment Model for Bug Deduplication". The paper aims at the state-of-art development of a novel soft alignment method which helps to identify the distinct bug reports for the same bug registered by multiple users. A novel deep learning model named SABD is implemented to achieve this. Further, the results are evaluated based on the rank-based metric.
