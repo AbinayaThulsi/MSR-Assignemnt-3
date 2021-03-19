@@ -48,7 +48,8 @@ As the [attention mechanism](https://arxiv.org/abs/1409.0473) computes interdepe
 
 # Conclusion
 We did not stop with only three approaches. We kept on looking into many other reference papers and codes. But these three are the main approaches we started implementing. After looking into many papers we understood that SABD is using best  and realistic methodolody compared to other papers, which was mentioned in our paper too. Nevertheless, we still wanted to try out few other alternatives and come to conclusion. We still cannot say the time cant be reduced by any method. As mentioned in second approach siamese will take less time but we can start researching on how to increase recall rate using siamese ,But we have not come accross anything with access to few resources and with the time constraint we had. We have tried with many code changes either we could not overcome the errors faced or the code was even more time consuming than the existing SABD approach.
-Few Reference links:
+
+Here are few links and explanation on why our paper is considered as best by us:
 1. [Siamese](https://ieeexplore.ieee.org/document/8094414). As mentioned above all Siamese related papers can be considered to overcome few issues but the existing one's will give lower RR@K compared to SABD.
 2. [Poddar et al](https://www.aclweb.org/anthology/N19-2020/) Few techniques used in this paper is taken to implement SABD.
 3. [Sun et al] (https://ieeexplore.ieee.org/document/6100061) mean average precision (MAP) and recall rate@k (RR@k) techniques used in this paper is taken to implement SABD.
