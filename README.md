@@ -35,7 +35,7 @@ Secondly, we decided to proceed with of changing Siamese algorithm, using YOCO a
 
 ##### Command to Execute :
 ```bash
-python3 experiments/siamese_pairs.py  -F HOME_DIR/experiments with HOME_DIR/duplicate-bug-report/json_parameters/siamese_pair_test_eclipse.json "recall_rate.window=365").
+python3 experiments/siamese_pairs.py  -F HOME_DIR/experiments with HOME_DIR/duplicate-bug-report/json_parameters/siamese_pair_test_eclipse.json "recall_rate.window=365"
 ```
 But it was able to run only until the 1st epoch, afterwards we started getting segmentation error. Later, We thought of implementing YOCO and YOLO concept in siamese pair code but we couldnt find more resource for YOCO and YOLO and how it can be used in textual module , The resource we found was for image module and we could have used the concept and implemented in siamese code we have updated but as we started searching deeply about both the algorithms we understood that sabd is already better than [Siamese](https://ieeexplore.ieee.org/document/1467314)(SABD might be slower than siamese but when real time is considered sabd outperforms siamese pair and siamese triplet). So if we succeed in saving runtime then performance in terms of recall rate would still be less and we did not want to spend much time in fixing the code. Instead of investing more time on this we started looking into other techniques.
 
