@@ -240,7 +240,7 @@ But it was able to run only until the 1st epoch, afterwards we started getting s
 ### Third Approach:
 As the [attention mechanism](https://arxiv.org/abs/1409.0473) computes interdependent representations for each report jointly for pair of possibly duplicate reports, it is the main reason for the model being slow and not being efficiently faster. So, we even tried to split and generate the representation in batches. But the bug duplicate report detection accuracy was not remarkable. As already stated in the paper, even though fixed representation consumes more time the model performs the best only by that. 
 
-## Conclusion
+## Results
 Along with above mentioned three approaches, we further investigated several related works and papers. We also understood that SABD is using best and realistic methodology compared to other models addressed in other similar papers, which was mentioned in our paper as well. Nevertheless, we still wanted to try out few other alternatives and come to conclusion and concluded that, the mentioned three approaches seemed more suitable for addressing the Bug tracking System’s (BTS) threat. It cannot be said that reducing the execution time is impossible because the Siamese approach seems to be quiet convincing.  But, with the time constraints and few available resources it was hard to try other approaches completely. While trying out the methodologies, we were facing challenges in either resolving the issues or method was more time consuming compared to SABD approach.
 
 Here are few links that are stated in paper. Ongoing through these reference, it is explainable why our paper is already considered as best compared to other existing models. 
