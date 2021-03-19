@@ -234,8 +234,9 @@ Here are few links that are stated in paper. Ongoing through these reference, it
 ![](Image/sabd_model_comparison.PNG)
 
 The below are the references we came across during our research. These papers were facing similar threats as ours which makes use of other techniques. 
-4.	[Automated Duplicate Detection for Bug Tracking Systems](https://web.eecs.umich.edu/~weimerw/p/weimer-dsn2008.pdf) is a very old paper which uses linear regression, but many new techniques are come into light now a days for the amount of data we are getting in real world.
-5.	[Budhiraja](https://dl.acm.org/doi/proceedings/10.1145/3183440)'s technique is already referred by our author. So, we either found very old techniques or the ones used in our paper as reference to make our paper the best.
+
+1.	[Automated Duplicate Detection for Bug Tracking Systems](https://web.eecs.umich.edu/~weimerw/p/weimer-dsn2008.pdf) is a very old paper which uses linear regression, but many new techniques are come into light now a days for the amount of data we are getting in real world.
+2.	[Budhiraja](https://dl.acm.org/doi/proceedings/10.1145/3183440)'s technique is already referred by our author. So, we either found very old techniques or the ones used in our paper as reference to make our paper the best.
 
 Even though the previous works similar to SABD they were are not much helpful, this research helped to realise that SABD model of Bug tracking system is the combination of all best techniques which were addressed separately in previous works. Hence, having execution time constraint to be the only threat we could not find much resource which can be used to make our code even better. We tried all the possible techniques we can come up with.
 
